@@ -8,7 +8,6 @@
 | Email | kjw582390@gmail.com |
 | H.P | 010-2570-5823 |
 | GitHub | [github.com/bucheoncityboy](https://github.com/bucheoncityboy) |
-| 병역 | 육군 병장 만기전역 (2021.01 – 2022.07) |
 
 ---
 
