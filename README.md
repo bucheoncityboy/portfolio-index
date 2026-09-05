@@ -7,7 +7,6 @@
 |---|---|
 | Email | kjw582390@gmail.com |
 | H.P | 010-2570-5823 |
-| GitHub | [github.com/bucheoncityboy](https://github.com/bucheoncityboy) |
 
 ---
 
