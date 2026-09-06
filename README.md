@@ -1,7 +1,4 @@
-# 김재원 (Jaewon Kim) — 이력서 & 포트폴리오 인덱스
-
-> **Quant Researcher · AI Agent System Engineer**
-> 한양대학교 경영학부 졸업 · 투자자산운용사 합격 · 주식 운용/리서치 인턴 지원
+# 김재원 (Jaewon Kim)
 
 | 연락처 | |
 |---|---|
@@ -23,14 +20,13 @@
 | **HY-FIN 재무금융학회** | - Fama-French(1993) 재현 및 한국 시장 실증 분석<br>- 환위험 관리 및 환헤지 연구 논문<br>- WorldQuant Brain 산학협력 | 2025.09 – 2026.07 |
 | **Quantitative Analytics Lab (학부연구생)** | - 금융 머신러닝(Meta-Labeling) 연구<br>- 금융 시계열 꼬리위험 정량화 및 리스크 관리 | 2025.09 – 2025.12 |
 
-## 3. 자격증 · 어학
+## 3. 자격증
 
 | 구분 | 내용 | 취득일 / 점수 |
 |---|---|---|
 | 자격증 | 투자자산운용사 (금융투자협회) | 2025.10.30 |
 | 자격증 | ADsP 데이터분석 준전문가 (한국데이터산업진흥원) | 2024.05.31 |
 | 자격증 | SQL 개발자 (한국데이터산업진흥원) | 2024.04.05 |
-| 어학 | TOEIC Speaking | 130 / 200 (중) |
 
 ## 4. 경력 (인턴)
 
@@ -60,12 +56,7 @@
 | 저장소 | 한 줄 설명 |
 |---|---|
 | [**agentic-research-pipeline**](https://github.com/bucheoncityboy/agentic-research-pipeline) | AI Agent 기반 기업분석 리포트 자동화 (7개 소스 연동 · Fail-Closed 검증 · 19종목 커버리지) |
-| [**harness-engineering**](https://github.com/bucheoncityboy/harness-engineering) | 확률적 AI 출력을 결정적 시스템으로 통제하는 3-Layer 하네스 아키텍처 |
 | [**quantamental-kr**](https://github.com/bucheoncityboy/quantamental-kr) | KOSPI200/KOSDAQ150 대상 주간 퀀타멘탈 운용 엔진 (중립화 알파 · Black-Litterman · Human-in-the-loop) |
-
-### 5-3. 기타 개인 프로젝트
-
-[token-tracker](https://github.com/bucheoncityboy/token-tracker) · [kr-stock-report](https://github.com/bucheoncityboy/kr-stock-report) · [llm-alignment-coding](https://github.com/bucheoncityboy/llm-alignment-coding) · [Fama-French-The-Cross-Section-of-Expected-Stock-Returns-](https://github.com/bucheoncityboy/Fama-French-The-Cross-Section-of-Expected-Stock-Returns-)
 
 ---
 
