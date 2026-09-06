@@ -21,11 +21,11 @@
 | **HY-FIN 재무금융학회** | - Fama-French(1993) 재현 및 한국 시장 실증 분석<br>- 환위험 관리 및 환헤지 연구 논문<br>- WorldQuant Brain 산학협력 | 2025.09 – 2026.07 |
 | **Quantitative Analytics Lab (학부연구생)** | - 금융 머신러닝(Meta-Labeling) 연구<br>- 금융 시계열 꼬리위험 정량화 및 리스크 관리 | 2025.09 – 2025.12 |
 
-## 3. 자격증/수료증
+## 3. 수료/자격증
 
 | 구분 | 내용 | 취득일 |
 |---|---|---|
-| 수료증 | Quantitative Research Consultant (WorldQuant) | 2026.06.04 |
+| 수료 | Quantitative Research Consultant (WorldQuant) | 2026.06.04 |
 | 자격증 | 투자자산운용사 (금융투자협회) | 2025.10.30 |
 | 자격증 | ADsP 데이터분석 준전문가 (한국데이터산업진흥원) | 2024.05.31 |
 | 자격증 | SQL 개발자 (한국데이터산업진흥원) | 2024.04.05 |
