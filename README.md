@@ -49,12 +49,12 @@
 
 ### 5-1. 교내 활동 프로젝트 (HY-FIN 재무금융학회 · Quantitative Analytics Lab)
 
-| 구분 | 저장소 | 한 줄 설명 | 핵심 성과 |
-|---|---|---|---|
-| 학회 연구 | [**fama-french-korea-factor**](https://github.com/bucheoncityboy/fama-french-korea-factor) | 한국 시장 Fama-French 3-Factor 실증 | FnGuide **1,054종목 · 311개월** 패널 ETL → 25개 Size×BM 포트폴리오 GRS 검정. HML 유의(t=3.89) · **SMB 부호 반전**(-0.67%/월) 발견 |
-| 학회 연구 | [**Dynamic-Shield-K-ICS-AI**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI) | K-ICS 자본 효율 극대화 AI 동적 환헤지 시스템 (환헤지 논문, 팀 저녁은 뉴욕에서) | "Risk Paradox" 증명 · HMM 국면인식 + PPO 강화학습 · 실데이터 5,292일 검증 · **자본비용 최대 10.38% 절감** |
-| 산학협력 | [**quant-alpha-agent-harness**](https://github.com/bucheoncityboy/quant-alpha-agent-harness) | WorldQuant Brain 알파 마이닝 LLM 에이전트 하네스 | 통계 가드레일 + 5-Gate 제출 파이프라인 · **유효 알파 70개 발굴** · 리서치 컨설턴트 계약 체결 |
-| 학부연구생 | [**deep-quant-risk-haqr**](https://github.com/bucheoncityboy/deep-quant-risk-haqr) · [📄 연구 보고서](https://github.com/bucheoncityboy/deep-quant-risk-haqr/blob/main/리스크%20정량화와%20포지션%20사이징을%20위한%20계층적%20어텐션%20퀀타일%20회귀.pdf) | 계층적 어텐션 분위수 회귀로 꼬리위험 정량화 | Non-Crossing Quantile Head · **Sharpe 1.05** (LGBM 0.82 대비) · Pinball 0.00584 · 손실구간 91% 적중 |
+| 구분 | 저장소 | 보고서 | 한 줄 설명 | 핵심 성과 |
+|---|---|---|---|---|
+| 학회 연구 | [**fama-french-korea-factor**](https://github.com/bucheoncityboy/fama-french-korea-factor) |  | 한국 시장 Fama-French 3-Factor 실증 | FnGuide **1,054종목 · 311개월** 패널 ETL → 25개 Size×BM 포트폴리오 GRS 검정. HML 유의(t=3.89) · **SMB 부호 반전**(-0.67%/월) 발견 |
+| 학회 연구 | [**Dynamic-Shield-K-ICS-AI**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI) |  | K-ICS 자본 효율 극대화 AI 동적 환헤지 시스템 (환헤지 논문, 팀 저녁은 뉴욕에서) | "Risk Paradox" 증명 · HMM 국면인식 + PPO 강화학습 · 실데이터 5,292일 검증 · **자본비용 최대 10.38% 절감** |
+| 산학협력 | [**quant-alpha-agent-harness**](https://github.com/bucheoncityboy/quant-alpha-agent-harness) |  | WorldQuant Brain 알파 마이닝 LLM 에이전트 하네스 | 통계 가드레일 + 5-Gate 제출 파이프라인 · **유효 알파 70개 발굴** · 리서치 컨설턴트 계약 체결 |
+| 학부연구생 | [**deep-quant-risk-haqr**](https://github.com/bucheoncityboy/deep-quant-risk-haqr) | [📄 연구 보고서](https://github.com/bucheoncityboy/deep-quant-risk-haqr/blob/main/리스크%20정량화와%20포지션%20사이징을%20위한%20계층적%20어텐션%20퀀타일%20회귀.pdf) | 계층적 어텐션 분위수 회귀로 꼬리위험 정량화 | Non-Crossing Quantile Head · **Sharpe 1.05** (LGBM 0.82 대비) · Pinball 0.00584 · 손실구간 91% 적중 |
 
 ### 5-2. 개인 프로젝트 (AI 에이전트 · 리서치 자동화)
 
