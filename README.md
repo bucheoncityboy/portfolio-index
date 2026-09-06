@@ -2,8 +2,9 @@
 
 | 연락처 | |
 |---|---|
-| Email | kjw582390@gmail.com |
+| Email | [kjw582390@gmail.com](mailto:kjw582390@gmail.com) |
 | H.P | 010-2570-5823 |
+| LinkedIn | [linkedin.com/in/jaewon-kim-kr](https://www.linkedin.com/in/jaewon-kim-kr) |
 
 ---
 
