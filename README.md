@@ -49,20 +49,20 @@
 
 ### 5-1. 교내 활동 프로젝트 (HY-FIN 재무금융학회 · Quantitative Analytics Lab)
 
-| 구분 | 저장소 | 보고서 | 한 줄 설명 | 핵심 성과 |
-|---|---|---|---|---|
-| 학회 연구 | [**fama-french-korea-factor**](https://github.com/bucheoncityboy/fama-french-korea-factor) |  | 한국 시장 Fama-French 3-Factor 실증 | FnGuide **1,054종목 · 311개월** 패널 ETL → 25개 Size×BM 포트폴리오 GRS 검정. HML 유의(t=3.89) · **SMB 부호 반전**(-0.67%/월) 발견 |
-| 학회 연구 | [**Dynamic-Shield-K-ICS-AI**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI) |  | K-ICS 자본 효율 극대화 AI 동적 환헤지 시스템 (환헤지 논문, 팀 저녁은 뉴욕에서) | "Risk Paradox" 증명 · HMM 국면인식 + PPO 강화학습 · 실데이터 5,292일 검증 · **자본비용 최대 10.38% 절감** |
-| 산학협력 | [**quant-alpha-agent-harness**](https://github.com/bucheoncityboy/quant-alpha-agent-harness) |  | WorldQuant Brain 알파 마이닝 LLM 에이전트 하네스 | 통계 가드레일 + 5-Gate 제출 파이프라인 · **유효 알파 70개 발굴** · 리서치 컨설턴트 계약 체결 |
-| 학부연구생 | [**deep-quant-risk-haqr**](https://github.com/bucheoncityboy/deep-quant-risk-haqr) | [📄 연구 보고서](https://github.com/bucheoncityboy/deep-quant-risk-haqr/blob/main/리스크%20정량화와%20포지션%20사이징을%20위한%20계층적%20어텐션%20퀀타일%20회귀.pdf) | 계층적 어텐션 분위수 회귀로 꼬리위험 정량화 | Non-Crossing Quantile Head · **Sharpe 1.05** (LGBM 0.82 대비) · Pinball 0.00584 · 손실구간 91% 적중 |
+| 구분 | 저장소 | 보고서 | 한 줄 설명 |
+|---|---|---|---|
+| 학회 연구 | [**fama-french-korea-factor**](https://github.com/bucheoncityboy/fama-french-korea-factor) |  | 한국 시장 Fama-French 3-Factor 실증 (1,054종목 · 311개월 패널, HML t=3.89, SMB 부호반전) |
+| 학회 연구 | [**Dynamic-Shield-K-ICS-AI**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI) |  | K-ICS 자본 효율 극대화 AI 동적 환헤지 시스템 (Risk Paradox 증명 · 자본비용 최대 10.38% 절감) |
+| 산학협력 | [**quant-alpha-agent-harness**](https://github.com/bucheoncityboy/quant-alpha-agent-harness) |  | WorldQuant Brain 알파 마이닝 LLM 에이전트 하네스 (5-Gate 파이프라인 · 유효 알파 70개) |
+| 학부연구생 | [**deep-quant-risk-haqr**](https://github.com/bucheoncityboy/deep-quant-risk-haqr) | [📄 연구 보고서](https://github.com/bucheoncityboy/deep-quant-risk-haqr/blob/main/리스크%20정량화와%20포지션%20사이징을%20위한%20계층적%20어텐션%20퀀타일%20회귀.pdf) | 계층적 어텐션 분위수 회귀로 꼬리위험 정량화 (Non-Crossing Quantile Head · Sharpe 1.05) |
 
 ### 5-2. 개인 프로젝트 (AI 에이전트 · 리서치 자동화)
 
-| 저장소 | 한 줄 설명 | 핵심 성과 |
-|---|---|---|
-| [**agentic-research-pipeline**](https://github.com/bucheoncityboy/agentic-research-pipeline) | AI Agent 기반 기업분석 리포트 자동화 | DART/FnGuide/KRX 등 **7개 소스 연동** · 4단계 Fail-Closed 검증 게이트 · 592개 단위 테스트 · 19종목 커버리지 · 샘플 결과물 6건 |
-| [**harness-engineering**](https://github.com/bucheoncityboy/harness-engineering) | 확률적 AI 출력을 결정적 시스템으로 통제하는 하네스 아키텍처 | 3-Layer 구조 (Deterministic Shell · Middleware Chain · Policy Layer) + oh-my-openagent 사례 분석 |
-| [**quantamental-kr**](https://github.com/bucheoncityboy/quantamental-kr) | KOSPI200/KOSDAQ150 대상 주간 퀀타멘탈 운용 엔진 | OLS 시장·섹터 중립화로 순수 알파 추출 · Black-Litterman 최적화 · Human-in-the-loop 매니저 승인 |
+| 저장소 | 한 줄 설명 |
+|---|---|
+| [**agentic-research-pipeline**](https://github.com/bucheoncityboy/agentic-research-pipeline) | AI Agent 기반 기업분석 리포트 자동화 (7개 소스 연동 · Fail-Closed 검증 · 19종목 커버리지) |
+| [**harness-engineering**](https://github.com/bucheoncityboy/harness-engineering) | 확률적 AI 출력을 결정적 시스템으로 통제하는 3-Layer 하네스 아키텍처 |
+| [**quantamental-kr**](https://github.com/bucheoncityboy/quantamental-kr) | KOSPI200/KOSDAQ150 대상 주간 퀀타멘탈 운용 엔진 (중립화 알파 · Black-Litterman · Human-in-the-loop) |
 
 ### 5-3. 기타 개인 프로젝트
 
