@@ -30,19 +30,12 @@
 | 자격증 | ADsP 데이터분석 준전문가 (한국데이터산업진흥원) | 2024.05.31 |
 | 자격증 | SQL 개발자 (한국데이터산업진흥원) | 2024.04.05 |
 
-## 4. 경력사항
 
-| 회사 | 부서 | 담당 업무 | 기간 |
-|---|---|---|---|
-| 링커리어 | 마케팅 | 보고서 작성 · 콘텐츠 제작 · CS 응대 · 커뮤니티 관리 | 2024.09 – 2024.12 |
-
----
-
-## 5. 프로젝트 포트폴리오
+## 4. 프로젝트 포트폴리오
 
 > 교내 활동(학회·연구실)에서 수행한 연구는 **교내 활동 프로젝트**, 학업과 병행해 개인적으로 구축한 저장소는 **개인 프로젝트**로 구분했습니다.
 
-### 5-1. 교내 활동 프로젝트 (HY-FIN 재무금융학회 · Quantitative Analytics Lab)
+### 4-1. 교내 활동 프로젝트 (HY-FIN 재무금융학회 · Quantitative Analytics Lab)
 
 | 구분 | 저장소 | 보고서 | 설명 |
 |---|---|---|---|
@@ -51,7 +44,7 @@
 | 학회 | [**K-ICS 동적 환헤지 최적화**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI "Dynamic-Shield-K-ICS-AI") | [📄 연구 보고서](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI/blob/main/K-ICS%20규제%20환경%20하%20보험사의%20동적%20환위험%20헤지%20의사결정%20시스템.pdf) | K-ICS 규제 환경 하 HMM 국면분류 및 강인 강화학습 기반 동적 환헤지 자산배분 시스템<br>(요구자본비용 최대 10.38% 절감) |
 | 학부연구생 | [**HAQR: 계층 어텐션 분위수 회귀**](https://github.com/bucheoncityboy/deep-quant-risk-haqr "deep-quant-risk-haqr") | [📄 연구 보고서](https://github.com/bucheoncityboy/deep-quant-risk-haqr/blob/main/리스크%20정량화와%20포지션%20사이징을%20위한%20계층적%20어텐션%20퀀타일%20회귀.pdf) | 하방 꼬리위험 정량화를 위한 계층적 어텐션 분위수 회귀 모델 설계<br>(LightGBM 대비 핀볼 오차 7.4% 개선, 적중률 91.48%) |
 
-### 5-2. 개인 프로젝트 (AI 에이전트 · 리서치 자동화)
+### 4-2. 개인 프로젝트 (AI 에이전트 · 리서치 자동화)
 
 | 저장소 | 설명 |
 |---|---|
