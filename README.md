@@ -20,7 +20,7 @@
 
 | 활동 | 주요 내용 | 기간 |
 |---|---|---|
-| **HY-FIN 재무금융학회** | - Fama-French 모형 기반 한국 시장 실증 분석<br>- 환위험 관리 및 환헤지 연구 논문<br>- WorldQuant Brain 산학협력 | 2025.09 – 2026.07 |
+| **HY-FIN 재무금융학회** | - Fama-French(1993) 재현 및 한국 시장 실증 분석<br>- 환위험 관리 및 환헤지 연구 논문<br>- WorldQuant Brain 산학협력 | 2025.09 – 2026.07 |
 | **Quantitative Analytics Lab (학부연구생)** | - 금융 머신러닝(Meta-Labeling) 연구<br>- 금융 시계열 꼬리위험 정량화 및 리스크 관리 | 2025.09 – 2025.12 |
 
 ## 3. 자격증 · 어학
@@ -49,7 +49,7 @@
 
 | 구분 | 저장소 | 보고서 | 한 줄 설명 |
 |---|---|---|---|
-| 학회 연구 | [**fama-french-korea-factor**](https://github.com/bucheoncityboy/fama-french-korea-factor) | [📄 연구 보고서](https://github.com/bucheoncityboy/fama-french-korea-factor/blob/master/한국%20시장%20Fama-French%203-Factor%20실증%20연구보고서.pdf) | 한국 시장 Fama-French 3-Factor 실증 (1,054종목 · 311개월 패널, HML t=3.89, SMB 부호반전) |
+| 학회 연구 | [**fama-french-korea-factor**](https://github.com/bucheoncityboy/fama-french-korea-factor) | [📄 한국 실증](https://github.com/bucheoncityboy/fama-french-korea-factor/blob/master/한국%20시장%20Fama-French%203-Factor%20실증%20연구보고서.pdf) · [📄 FF(1993) 재현](https://github.com/bucheoncityboy/fama-french-korea-factor/blob/master/Fama-French%20(1993)%20재현%20발표자료.pdf) | 한국 시장 Fama-French 3-Factor 실증 (1,054종목 · 311개월 패널, HML t=3.89, SMB 부호반전) |
 | 학회 연구 | [**Dynamic-Shield-K-ICS-AI**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI) | [📄 연구 보고서](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI/blob/main/K-ICS%20규제%20환경%20하%20보험사의%20동적%20환위험%20헤지%20의사결정%20시스템.pdf) | K-ICS 자본 효율 극대화 AI 동적 환헤지 시스템 (Risk Paradox 증명 · 자본비용 최대 10.38% 절감) |
 | 산학협력 | [**quant-alpha-agent-harness**](https://github.com/bucheoncityboy/quant-alpha-agent-harness) |  | WorldQuant Brain 알파 마이닝 LLM 에이전트 하네스 (5-Gate 파이프라인 · 유효 알파 70개) |
 | 학부연구생 | [**deep-quant-risk-haqr**](https://github.com/bucheoncityboy/deep-quant-risk-haqr) | [📄 연구 보고서](https://github.com/bucheoncityboy/deep-quant-risk-haqr/blob/main/리스크%20정량화와%20포지션%20사이징을%20위한%20계층적%20어텐션%20퀀타일%20회귀.pdf) | 계층적 어텐션 분위수 회귀로 꼬리위험 정량화 (Non-Crossing Quantile Head · Sharpe 1.05) |
