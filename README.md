@@ -57,7 +57,3 @@
 |---|---|
 | [**agentic-research-pipeline**](https://github.com/bucheoncityboy/agentic-research-pipeline) | AI Agent 기반 기업분석 리포트 자동화 (7개 소스 연동 · Fail-Closed 검증 · 19종목 커버리지) |
 | [**quantamental-kr**](https://github.com/bucheoncityboy/quantamental-kr) | KOSPI200/KOSDAQ150 대상 주간 퀀타멘탈 운용 엔진 (중립화 알파 · Black-Litterman · Human-in-the-loop) |
-
----
-
-## 6. 기술 스택
