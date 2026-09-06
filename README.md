@@ -45,9 +45,9 @@
 
 | 구분 | 저장소 | 보고서 | 한 줄 설명 |
 |---|---|---|---|
-| 학회 연구 | [**fama-french-korea-factor**](https://github.com/bucheoncityboy/fama-french-korea-factor) | [📄 보고서](https://github.com/bucheoncityboy/fama-french-korea-factor/blob/master/한국%20시장%20Fama-French%203-Factor%20실증%20연구보고서.pdf) | 한국 시장 Fama-French 3-Factor 실증 (1,054종목 · 311개월 패널, HML t=3.89, SMB 부호반전) |
-| 학회 연구 | [**fama-ff3-**](https://github.com/bucheoncityboy/fama-ff3-) | [📄 보고서](https://github.com/bucheoncityboy/fama-ff3-/blob/master/Fama-French%20(1993)%20재현%20발표자료%20(HY-FIN%20리서치%20세션%205조).pdf) | Fama-French(1993) 미국 원전 재현 (CRSP·Compustat 25포트폴리오, GRS 검정, E/P·D/P 검증) |
-| 학회 연구 | [**Dynamic-Shield-K-ICS-AI**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI) | [📄 연구 보고서](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI/blob/main/K-ICS%20규제%20환경%20하%20보험사의%20동적%20환위험%20헤지%20의사결정%20시스템.pdf) | K-ICS 자본 효율 극대화 AI 동적 환헤지 시스템 (Risk Paradox 증명 · 자본비용 최대 10.38% 절감) |
+| 학회 | [**fama-french-korea-factor**](https://github.com/bucheoncityboy/fama-french-korea-factor) | [📄 보고서](https://github.com/bucheoncityboy/fama-french-korea-factor/blob/master/한국%20시장%20Fama-French%203-Factor%20실증%20연구보고서.pdf) | 한국 시장 Fama-French 3-Factor 실증 (1,054종목 · 311개월 패널, HML t=3.89, SMB 부호반전) |
+| 학회 | [**fama-ff3-**](https://github.com/bucheoncityboy/fama-ff3-) | [📄 보고서](https://github.com/bucheoncityboy/fama-ff3-/blob/master/Fama-French%20(1993)%20재현%20발표자료%20(HY-FIN%20리서치%20세션%205조).pdf) | Fama-French(1993) 미국 원전 재현 (CRSP·Compustat 25포트폴리오, GRS 검정, E/P·D/P 검증) |
+| 학회 | [**Dynamic-Shield-K-ICS-AI**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI) | [📄 연구 보고서](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI/blob/main/K-ICS%20규제%20환경%20하%20보험사의%20동적%20환위험%20헤지%20의사결정%20시스템.pdf) | K-ICS 자본 효율 극대화 AI 동적 환헤지 시스템 (Risk Paradox 증명 · 자본비용 최대 10.38% 절감) |
 | 학부연구생 | [**deep-quant-risk-haqr**](https://github.com/bucheoncityboy/deep-quant-risk-haqr) | [📄 연구 보고서](https://github.com/bucheoncityboy/deep-quant-risk-haqr/blob/main/리스크%20정량화와%20포지션%20사이징을%20위한%20계층적%20어텐션%20퀀타일%20회귀.pdf) | 계층적 어텐션 분위수 회귀로 꼬리위험 정량화 (Non-Crossing Quantile Head · Sharpe 1.05) |
 
 ### 5-2. 개인 프로젝트 (AI 에이전트 · 리서치 자동화)
