@@ -49,3 +49,4 @@
 | 저장소 | 설명 |
 |---|---|
 | [**agentic-research-pipeline**](https://github.com/bucheoncityboy/agentic-research-pipeline) | AI Agent 기반 기업분석 리포트 자동화 (7개 소스 연동 · Fail-Closed 검증 · 19종목 커버리지) |
+| [**us-robust-live-ops**](https://github.com/bucheoncityboy/us-robust-live-ops) | 미국 대형주 3-슬리브 퀀트 **라이브 옵스** (Python 신호/비중 SoT → openpyxl 6시트 원장 UI, 수식 오염 차단으로 P&L 무결성) · Leader 60/Mom63 20/LowVol 20 · 월말 종가→익일 시가 · 실주문 fail-closed 게이트 · 주간 NAV/SPY 원장 · Python **~17k LOC** · 백테스트 연환산 49.0% / Sharpe 1.54 |
