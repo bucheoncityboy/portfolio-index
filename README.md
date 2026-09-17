@@ -48,6 +48,6 @@
 
 | 저장소 | 설명 |
 |---|---|
-| [**multi-asset-morning-briefing**](https://github.com/bucheoncityboy/k-skill/tree/feature/674/multi-asset-morning-briefing) | 글로벌 주식·금리·FX·원자재·변동성과 한국시장 전이 경로를 근거 링크가 있는 7개 섹션으로 작성하는 AI 에이전트 스킬 (Cboe·ECB·ECOS·미 재무부 공식 원천 · 미국/한국 독립 거래세션 · 원천별 Fail-Closed · Python 오프라인 테스트 30건) |
+| [**multi-asset-morning-briefing**](https://github.com/bucheoncityboy/multi-asset-morning-briefing) | 글로벌 주식·금리·FX·원자재·변동성과 한국시장 전이 경로를 근거 링크가 있는 7개 섹션으로 작성하는 AI 에이전트 스킬 (Cboe·ECB·ECOS·미 재무부 공식 원천 · 미국/한국 독립 거래세션 · 원천별 Fail-Closed · Python 오프라인 테스트 30건) |
 | [**agentic-research-pipeline**](https://github.com/bucheoncityboy/agentic-research-pipeline) | AI Agent 기반 기업분석 리포트 자동화 (7개 소스 연동 · Fail-Closed 검증 · 19종목 커버리지) |
 | [**us-robust-live-ops**](https://github.com/bucheoncityboy/us-robust-live-ops) | 미국 대형주 3-슬리브 퀀트 **라이브 옵스** (Python 신호/비중 SoT → openpyxl 6시트 원장 UI, 수식 오염 차단으로 P&L 무결성) · Leader 60/Mom63 20/LowVol 20 · 월말 종가→익일 시가 · 실주문 fail-closed 게이트 · 주간 NAV/SPY 원장 · Python **~17k LOC** · 백테스트 연환산 49.0% / Sharpe 1.54 |
