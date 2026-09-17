@@ -39,6 +39,7 @@
 
 | 구분 | 저장소 | 보고서 | 설명 |
 |---|---|---|---|
+| 학회 | [**KRW 금리 이벤트 스터디·3s10s 거래심사**](https://github.com/bucheoncityboy/krw-rates-integrated-research "krw-rates-integrated-research") | [📊 발표자료](https://github.com/bucheoncityboy/krw-rates-integrated-research/blob/main/KRW_Rates_Integrated_Research_Portfolio.pptx) | 팀장으로 금통위 전후 KTB 3Y·10Y 및 3s10s 반응을 분석하고, 컨센서스 surprise·Equal-DV01·잔존위험·거래비용을 반영한 사전 거래심사·실행감사 프레임 설계 |
 | 학회 | [**한국 시장 FF3 실증**](https://github.com/bucheoncityboy/fama-french-korea-factor "fama-french-korea-factor") | [📄 보고서](https://github.com/bucheoncityboy/fama-french-korea-factor/blob/master/한국%20시장%20Fama-French%203-Factor%20실증%20연구보고서.pdf) | 한국 주식시장 1,054종목 패널 기반 Fama-French 3요인 실증 분석<br>(311개월 데이터, HML 유의성 t=3.89 확인 및 SMB 반전 현상 규명) |
 | 학회 | [**미국 시장 FF(1993) 재현**](https://github.com/bucheoncityboy/fama-ff3- "fama-ff3-") | [📄 보고서](https://github.com/bucheoncityboy/fama-ff3-/blob/master/Fama-French%20(1993)%20재현%20발표자료%20(HY-FIN%20리서치%20세션%205조).pdf) | Fama-French(1993) 32개 포트폴리오 재현 및 의사역행렬·부트스트랩 기반 GRS F-통계량 왜곡 정상화<br>(p-값 0.010 산출) |
 | 학회 | [**K-ICS 동적 환헤지 최적화**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI "Dynamic-Shield-K-ICS-AI") | [📄 연구 보고서](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI/blob/main/K-ICS%20규제%20환경%20하%20보험사의%20동적%20환위험%20헤지%20의사결정%20시스템.pdf) | K-ICS 규제 환경 하 HMM 국면분류 및 강인 강화학습 기반 동적 환헤지 자산배분 시스템<br>(한화생명 미래금융인재 공모전 출품 · 요구자본비용 최대 10.38% 절감) |
