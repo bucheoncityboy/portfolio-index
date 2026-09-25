@@ -18,27 +18,29 @@
 ## 2. 교내 활동
 
 <table width="100%">
+<colgroup><col width="270"><col width="550"><col width="220"></colgroup>
 <thead>
-<tr><th width="28.4%">활동</th><th width="54.5%">주요 내용</th><th width="17.1%">기간</th></tr>
+<tr><th width="270">활동</th><th width="550">주요 내용</th><th width="220">기간</th></tr>
 </thead>
 <tbody>
-<tr><td width="28.4%" align="center"><strong>GAMMA 글로벌마켓학회</strong></td><td width="54.5%"><ul><li>일간·주간 글로벌 시장 브리핑 작성</li><li>IB 자료 리서치</li><li>매크로 분석 및 한국은행 통화정책 이벤트 연구</li></ul></td><td width="17.1%" align="center">2026.03 – 현재</td></tr>
-<tr><td width="28.4%" align="center"><strong>HY-FIN 재무금융학회</strong></td><td width="54.5%"><ul><li>Fama-French(1993) 재현 및 한국 시장 실증 분석</li><li>환위험 관리 및 환헤지 연구 논문</li><li>WorldQuant Brain 산학협력</li></ul></td><td width="17.1%" align="center">2025.09 – 2026.07</td></tr>
-<tr><td width="28.4%" align="center"><strong>Quantitative Analytics Lab<br>(학부연구생)</strong></td><td width="54.5%"><ul><li>금융 머신러닝(Meta-Labeling) 연구</li><li>금융 시계열 꼬리위험 정량화 및 리스크 관리</li></ul></td><td width="17.1%" align="center">2025.09 – 2025.12</td></tr>
+<tr><td width="270" align="center"><strong>GAMMA 글로벌마켓학회</strong></td><td width="550"><ul><li>일간·주간 글로벌 시장 브리핑 작성</li><li>IB 자료 리서치</li><li>매크로 분석 및 한국은행 통화정책 이벤트 연구</li></ul></td><td width="220" align="center">2026.03 – 현재</td></tr>
+<tr><td width="270" align="center"><strong>HY-FIN 재무금융학회</strong></td><td width="550"><ul><li>Fama-French(1993) 재현 및 한국 시장 실증 분석</li><li>환위험 관리 및 환헤지 연구 논문</li><li>WorldQuant Brain 산학협력</li></ul></td><td width="220" align="center">2025.09 – 2026.07</td></tr>
+<tr><td width="270" align="center"><strong>Quantitative Analytics Lab<br>(학부연구생)</strong></td><td width="550"><ul><li>금융 머신러닝(Meta-Labeling) 연구</li><li>금융 시계열 꼬리위험 정량화 및 리스크 관리</li></ul></td><td width="220" align="center">2025.09 – 2025.12</td></tr>
 </tbody>
 </table>
 
 ## 3. 수료/자격증
 
 <table width="100%">
+<colgroup><col width="270"><col width="550"><col width="220"></colgroup>
 <thead>
-<tr><th width="28.4%" align="center">구분</th><th width="54.5%" align="center">내용</th><th width="17.1%" align="center">취득일</th></tr>
+<tr><th width="270" align="center">구분</th><th width="550" align="center">내용</th><th width="220" align="center">취득일</th></tr>
 </thead>
 <tbody>
-<tr><td width="28.4%" align="center">수료</td><td width="54.5%" align="left"><ul><li>Quantitative Research Consultant (WorldQuant)</li></ul></td><td width="17.1%" align="center">2026.06.04</td></tr>
-<tr><td width="28.4%" align="center">자격증</td><td width="54.5%" align="left"><ul><li>투자자산운용사 (금융투자협회)</li></ul></td><td width="17.1%" align="center">2025.10.30</td></tr>
-<tr><td width="28.4%" align="center">자격증</td><td width="54.5%" align="left"><ul><li>ADsP 데이터분석 준전문가 (한국데이터산업진흥원)</li></ul></td><td width="17.1%" align="center">2024.05.31</td></tr>
-<tr><td width="28.4%" align="center">자격증</td><td width="54.5%" align="left"><ul><li>SQL 개발자 (한국데이터산업진흥원)</li></ul></td><td width="17.1%" align="center">2024.04.05</td></tr>
+<tr><td width="270" align="center">수료</td><td width="550" align="left"><ul><li>Quantitative Research Consultant (WorldQuant)</li></ul></td><td width="220" align="center">2026.06.04</td></tr>
+<tr><td width="270" align="center">자격증</td><td width="550" align="left"><ul><li>투자자산운용사 (금융투자협회)</li></ul></td><td width="220" align="center">2025.10.30</td></tr>
+<tr><td width="270" align="center">자격증</td><td width="550" align="left"><ul><li>ADsP 데이터분석 준전문가 (한국데이터산업진흥원)</li></ul></td><td width="220" align="center">2024.05.31</td></tr>
+<tr><td width="270" align="center">자격증</td><td width="550" align="left"><ul><li>SQL 개발자 (한국데이터산업진흥원)</li></ul></td><td width="220" align="center">2024.04.05</td></tr>
 </tbody>
 </table>
 
