@@ -61,11 +61,11 @@
 <tr><th width="25%">스킬 저장소</th><th width="75%">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/korean-bond-search"><strong>한국 채권 검색 스킬</strong></a></td><td width="75%"><ul><li>종목명·발행사·ISIN으로 발행조건·잔액·CALL/PUT·CB·EB·BW 조회</li><li>출처를 대조해 표준 채권 항목으로 정리 · GS Quant 구조에서 영감</li></ul></td></tr>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/market-event-impact"><strong>시장 이벤트 분석 스킬</strong></a></td><td width="75%"><ul><li>정례 발표와 비정형 사건의 공식자료·당시 보도·가격을 대조</li><li>핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명</li><li>이벤트 스터디는 보조 근거로 사용 · GS Quant 구조에서 영감</li></ul></td></tr>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/multi-asset-morning-briefing"><strong>멀티에셋브리핑 스킬</strong></a></td><td width="75%"><ul><li>미국 오버나이트와 한국 전일장을 거래일 기준으로 정렬</li><li>주식·금리·환율·원자재·변동성과 한국시장 영향 요약</li><li>시장별 휴장일 반영 · 공식 출처 제시</li></ul></td></tr>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/government-bond-analysis"><strong>국채분석 스킬</strong></a></td><td width="75%"><ul><li>한국·미국 국채의 만기별 금리 변화·수익률곡선·한미 금리차 분석</li><li>확인된 입찰·통화정책 일정 정리</li></ul></td></tr>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/company-analysis-skill"><strong>기업분석 스킬</strong></a></td><td width="75%"><ul><li>공시·실적발표를 대조해 3대 재무제표와 사업·경쟁 구도 분석</li><li>주요 일정·조회 시점 주가 포함 · 매매 추천 제외</li></ul></td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/korean-bond-search"><strong>한국 채권 검색 스킬</strong></a></td><td width="75%">• 종목명·발행사·ISIN으로 발행조건·잔액·CALL/PUT·CB·EB·BW 조회<br>• 출처를 대조해 표준 채권 항목으로 정리 · GS Quant 구조에서 영감</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/market-event-impact"><strong>시장 이벤트 분석 스킬</strong></a></td><td width="75%">• 정례 발표와 비정형 사건의 공식자료·당시 보도·가격을 대조<br>• 핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명<br>• 이벤트 스터디는 보조 근거로 사용 · GS Quant 구조에서 영감</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/multi-asset-morning-briefing"><strong>멀티에셋브리핑 스킬</strong></a></td><td width="75%">• 미국 오버나이트와 한국 전일장을 거래일 기준으로 정렬<br>• 주식·금리·환율·원자재·변동성과 한국시장 영향 요약<br>• 시장별 휴장일 반영 · 공식 출처 제시</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/government-bond-analysis"><strong>국채분석 스킬</strong></a></td><td width="75%">• 한국·미국 국채의 만기별 금리 변화·수익률곡선·한미 금리차 분석<br>• 확인된 입찰·통화정책 일정 정리</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/company-analysis-skill"><strong>기업분석 스킬</strong></a></td><td width="75%">• 공시·실적발표를 대조해 3대 재무제표와 사업·경쟁 구도 분석<br>• 주요 일정·조회 시점 주가 포함 · 매매 추천 제외</td></tr>
 </tbody>
 </table>
 
@@ -76,7 +76,7 @@
 <tr><th width="25%">에이전트 저장소</th><th width="75%">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 RA 에이전트</strong></a></td><td width="75%"><ul><li>7개 자료원에서 기업 데이터를 수집·대조해 근거 추적형 보고서 생성</li><li>검증 기준 미달 정보는 제외 · 19개 종목 지원</li></ul></td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 RA 에이전트</strong></a></td><td width="75%">• 7개 자료원에서 기업 데이터를 수집·대조해 근거 추적형 보고서 생성<br>• 검증 기준 미달 정보는 제외 · 19개 종목 지원</td></tr>
 </tbody>
 </table>
 
@@ -87,6 +87,6 @@
 <tr><th width="25%">저장소</th><th width="75%">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/us-robust-live-ops"><strong>미국퀀트운용</strong></a></td><td width="75%"><ul><li>미국 대형주를 Leader 60%·Mom63 20%·LowVol 20%로 운용</li><li>Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익 기록</li><li>월말 종가 신호를 다음 거래일 시가에 반영 · 검증 실패 시 주문 차단</li></ul></td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/us-robust-live-ops"><strong>미국퀀트운용</strong></a></td><td width="75%">• 미국 대형주를 Leader 60%·Mom63 20%·LowVol 20%로 운용<br>• Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익 기록<br>• 월말 종가 신호를 다음 거래일 시가에 반영 · 검증 실패 시 주문 차단</td></tr>
 </tbody>
 </table>
