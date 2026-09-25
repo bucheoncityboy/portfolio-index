@@ -82,6 +82,11 @@
 
 ### 기타 개인 프로젝트
 
-| 저장소 | 설명 |
-|---|---|
-| [**미국퀀트운용**](https://github.com/bucheoncityboy/us-robust-live-ops) | Leader 60%, Mom63 20%, LowVol 20%로 미국 대형주를 운용하는 퀀트 시스템이다. Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익을 기록하며, 검증 실패 시 실주문을 막는다. 월말 종가 신호를 다음 거래일 시가에 반영한다. |
+<table width="100%">
+<thead>
+<tr><th width="18%">저장소</th><th width="82%">설명</th></tr>
+</thead>
+<tbody>
+<tr><td width="18%"><a href="https://github.com/bucheoncityboy/us-robust-live-ops"><strong>미국퀀트운용</strong></a></td><td width="82%">Leader 60%, Mom63 20%, LowVol 20%로 미국 대형주를 운용하는 퀀트 시스템이다. Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익을 기록하며, 검증 실패 시 실주문을 막는다. 월말 종가 신호를 다음 거래일 시가에 반영한다.</td></tr>
+</tbody>
+</table>
