@@ -1,6 +1,6 @@
 # 김재원 (Jaewon Kim)
 
-<p align="center">· Email: <a href="mailto:kjw582390@gmail.com">kjw582390@gmail.com</a><br>· H.P: 010-2570-5823<br>· LinkedIn: <a href="https://www.linkedin.com/in/jaewon-kim-kr">프로필</a></p>
+<p align="center">· Email: <a href="mailto:kjw582390@gmail.com">kjw582390@gmail.com</a><br>· H.P: 010-2570-5823&emsp;&emsp;&emsp;&emsp;<br>· LinkedIn: <a href="https://www.linkedin.com/in/jaewon-kim-kr">프로필</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
 
 ---
 
