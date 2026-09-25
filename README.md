@@ -1,6 +1,6 @@
 # 김재원 (Jaewon Kim)
 
-<p align="left">· Email: <a href="mailto:kjw582390@gmail.com">kjw582390@gmail.com</a><br>· H.P: 010-2570-5823<br>· LinkedIn: <a href="https://www.linkedin.com/in/jaewon-kim-kr">프로필</a></p>
+<p align="left">📧 Email: <a href="mailto:kjw582390@gmail.com">kjw582390@gmail.com</a><br>📱 H.P: 010-2570-5823<br>🔗 LinkedIn: <a href="https://www.linkedin.com/in/jaewon-kim-kr">프로필</a></p>
 
 ---
 
@@ -11,7 +11,7 @@
 <tr><th width="140">학교</th><th width="420">전공</th><th width="300">기간</th><th width="140">비고</th></tr>
 </thead>
 <tbody>
-<tr><td width="140">한양대학교(서울)</td><td width="420">경영학부 (주전공) · 정보시스템학과 (복수전공)</td><td width="300">2019.03 – 2026.08</td><td width="140">졸업</td></tr>
+<tr><td width="140" align="center">한양대학교(서울)</td><td width="420" align="center">경영학부 (주전공) · 정보시스템학과 (복수전공)</td><td width="300" align="center">2019.03 – 2026.08</td><td width="140" align="center">졸업</td></tr>
 </tbody>
 </table>
 
@@ -22,9 +22,9 @@
 <tr><th width="220">활동</th><th width="600">주요 내용</th><th width="220">기간</th></tr>
 </thead>
 <tbody>
-<tr><td width="220"><strong>GAMMA 글로벌마켓학회</strong></td><td width="600"><ul><li>일간·주간 글로벌 시장 브리핑 작성</li><li>IB 자료 리서치</li><li>매크로 분석 및 한국은행 통화정책 이벤트 연구</li></ul></td><td width="220">2026.03 – 현재</td></tr>
-<tr><td width="220"><strong>HY-FIN 재무금융학회</strong></td><td width="600"><ul><li>Fama-French(1993) 재현 및 한국 시장 실증 분석</li><li>환위험 관리 및 환헤지 연구 논문</li><li>WorldQuant Brain 산학협력</li></ul></td><td width="220">2025.09 – 2026.07</td></tr>
-<tr><td width="220"><strong>Quantitative Analytics Lab<br>(학부연구생)</strong></td><td width="600"><ul><li>금융 머신러닝(Meta-Labeling) 연구</li><li>금융 시계열 꼬리위험 정량화 및 리스크 관리</li></ul></td><td width="220">2025.09 – 2025.12</td></tr>
+<tr><td width="220" align="center"><strong>GAMMA 글로벌마켓학회</strong></td><td width="600"><ul><li>일간·주간 글로벌 시장 브리핑 작성</li><li>IB 자료 리서치</li><li>매크로 분석 및 한국은행 통화정책 이벤트 연구</li></ul></td><td width="220" align="center">2026.03 – 현재</td></tr>
+<tr><td width="220" align="center"><strong>HY-FIN 재무금융학회</strong></td><td width="600"><ul><li>Fama-French(1993) 재현 및 한국 시장 실증 분석</li><li>환위험 관리 및 환헤지 연구 논문</li><li>WorldQuant Brain 산학협력</li></ul></td><td width="220" align="center">2025.09 – 2026.07</td></tr>
+<tr><td width="220" align="center"><strong>Quantitative Analytics Lab<br>(학부연구생)</strong></td><td width="600"><ul><li>금융 머신러닝(Meta-Labeling) 연구</li><li>금융 시계열 꼬리위험 정량화 및 리스크 관리</li></ul></td><td width="220" align="center">2025.09 – 2025.12</td></tr>
 </tbody>
 </table>
 
@@ -72,11 +72,11 @@
 <tr><th width="25%">스킬 저장소</th><th width="75%">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/korean-bond-search"><strong>한국 채권 검색 스킬</strong></a></td><td width="75%">• 종목명·발행사·ISIN으로 발행조건·잔액·CALL/PUT·CB·EB·BW 조회 • 출처를 대조해 표준 채권 항목으로 정리 · GS Quant 구조에서 영감</td></tr>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/market-event-impact"><strong>시장 이벤트 분석 스킬</strong></a></td><td width="75%">• 정례 발표와 비정형 사건의 공식자료·당시 보도·가격을 대조 • 핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명 • 이벤트 스터디는 보조 근거로 사용 · GS Quant 구조에서 영감</td></tr>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/multi-asset-morning-briefing"><strong>멀티에셋브리핑 스킬</strong></a></td><td width="75%">• 미국 오버나이트와 한국 전일장을 거래일 기준으로 정렬 • 주식·금리·환율·원자재·변동성과 한국시장 영향 요약 • 시장별 휴장일 반영 · 공식 출처 제시</td></tr>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/government-bond-analysis"><strong>국채분석 스킬</strong></a></td><td width="75%">• 한국·미국 국채의 만기별 금리 변화·수익률곡선·한미 금리차 분석 • 확인된 입찰·통화정책 일정 정리</td></tr>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/company-analysis-skill"><strong>기업분석 스킬</strong></a></td><td width="75%">• 공시·실적발표를 대조해 3대 재무제표와 사업·경쟁 구도 분석 • 주요 일정·조회 시점 주가 포함 · 매매 추천 제외</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/korean-bond-search"><strong>한국 채권 검색 스킬</strong></a></td><td width="75%">• 종목명·발행사·ISIN으로 발행조건·잔액·CALL/PUT·CB·EB·BW 조회<br>• 출처를 대조해 표준 채권 항목으로 정리 · GS Quant 구조에서 영감</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/market-event-impact"><strong>시장 이벤트 분석 스킬</strong></a></td><td width="75%">• 정례 발표와 비정형 사건의 공식자료·당시 보도·가격을 대조<br>• 핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명<br>• 이벤트 스터디는 보조 근거로 사용 · GS Quant 구조에서 영감</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/multi-asset-morning-briefing"><strong>멀티에셋브리핑 스킬</strong></a></td><td width="75%">• 미국 오버나이트와 한국 전일장을 거래일 기준으로 정렬<br>• 주식·금리·환율·원자재·변동성과 한국시장 영향 요약<br>• 시장별 휴장일 반영 · 공식 출처 제시</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/government-bond-analysis"><strong>국채분석 스킬</strong></a></td><td width="75%">• 한국·미국 국채의 만기별 금리 변화·수익률곡선·한미 금리차 분석<br>• 확인된 입찰·통화정책 일정 정리</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/company-analysis-skill"><strong>기업분석 스킬</strong></a></td><td width="75%">• 공시·실적발표를 대조해 3대 재무제표와 사업·경쟁 구도 분석<br>• 주요 일정·조회 시점 주가 포함 · 매매 추천 제외</td></tr>
 </tbody>
 </table>
 
