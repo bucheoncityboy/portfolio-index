@@ -73,10 +73,10 @@
 
 <table width="100%">
 <thead>
-<tr><th width="27%">에이전트 저장소</th><th width="73%">설명</th></tr>
+<tr><th width="25%">에이전트 저장소</th><th width="75%">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="27%"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 RA 에이전트</strong></a></td><td width="73%">7개 자료원에서 기업 데이터를 모아 대조하고, 근거를 추적할 수 있는 기업 리서치 보고서를 생성한다. 검증 기준을 통과하지 못한 정보는 제외하며 19개 종목을 지원한다.</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 RA 에이전트</strong></a></td><td width="75%">7개 자료원에서 기업 데이터를 모아 대조하고, 근거를 추적할 수 있는 기업 리서치 보고서를 생성한다. 검증 기준을 통과하지 못한 정보는 제외하며 19개 종목을 지원한다.</td></tr>
 </tbody>
 </table>
 
@@ -84,9 +84,9 @@
 
 <table width="100%">
 <thead>
-<tr><th width="18%">저장소</th><th width="82%">설명</th></tr>
+<tr><th width="25%">저장소</th><th width="75%">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="18%"><a href="https://github.com/bucheoncityboy/us-robust-live-ops"><strong>미국퀀트운용</strong></a></td><td width="82%">Leader 60%, Mom63 20%, LowVol 20%로 미국 대형주를 운용하는 퀀트 시스템이다. Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익을 기록하며, 검증 실패 시 실주문을 막는다. 월말 종가 신호를 다음 거래일 시가에 반영한다.</td></tr>
+<tr><td width="25%"><a href="https://github.com/bucheoncityboy/us-robust-live-ops"><strong>미국퀀트운용</strong></a></td><td width="75%">Leader 60%, Mom63 20%, LowVol 20%로 미국 대형주를 운용하는 퀀트 시스템이다. Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익을 기록하며, 검증 실패 시 실주문을 막는다. 월말 종가 신호를 다음 거래일 시가에 반영한다.</td></tr>
 </tbody>
 </table>
