@@ -46,28 +46,28 @@
 
 ### 4-2. 개인 프로젝트 (AI 에이전트 · 리서치 자동화)
 
-> 공식 자료와 검증 가능한 시장 데이터를 근거로 분석하는 개인 스킬 저장소입니다. 각 스킬은 용도와 제외 범위를 분리해 제공합니다.
+> 시장·기업 리서치를 돕는 개인 스킬과 에이전트를 모았습니다. 각 저장소에서 주요 기능과 사용 방법을 확인할 수 있습니다.
 
 ### AI Agent Skills
 
 | 스킬 저장소 | 설명 |
 |---|---|
-| [**multi-asset-morning-briefing**](https://github.com/bucheoncityboy/multi-asset-morning-briefing) | 미국 오버나이트와 한국 직전 거래일을 각 시장의 실제 세션·휴장일 기준으로 정렬하고, 주식·금리·FX·원자재·변동성 및 한국시장 전달 경로를 공식 출처와 함께 7개 섹션으로 정리하는 멀티에셋 모닝 브리핑 스킬 (원천별 결측·오류 차단 · Python 오프라인 테스트 30건) |
-| [**macro-ficc-research-agent**](https://github.com/bucheoncityboy/macro-ficc-research-agent) | 한국·미국 금리·커브·FX·거시 이벤트를 ECOS·FRED 공식 데이터로 수집·검증해 2페이지 브리프와 4시트 Excel 대시보드를 만드는 FICC 리서치 스킬 (유효 관측일 정렬 · 공식 성명 없는 정책 해석 차단 · evidence packet 오프라인 재생 · TypeScript 테스트 25건) |
-| [**morning-briefing**](https://github.com/bucheoncityboy/morning-briefing) | 미국 오버나잇과 한국 직전 거래 세션을 실제 거래일 기준으로 맞춰 시장 수치·거시 이벤트·섹터 촉매·한국시장 시사점·향후 5거래일 일정을 7개 섹션으로 구성하는 모닝 브리핑 스킬 (출처 근거 · 세션 분리 · Python 오프라인 테스트 10건) |
-| [**government-bond-analysis**](https://github.com/bucheoncityboy/government-bond-analysis) | 공식 데이터로 한국·미국 국채 수익률을 비교해 만기별 변화·커브·한미 금리차를 계산하고 확인된 입찰·통화정책 일정을 함께 분석하는 스킬 (141개 결정론적 파이프라인 검사 · TypeScript 타입 검사) |
-| [**company-analysis**](https://github.com/bucheoncityboy/company-analysis-skill) | 공개 공시와 실적발표를 대조해 재무제표 3종의 변화, 사업·경쟁 구도, 주요 일정과 조회 시점 주가를 여섯 섹션의 한국어 대화형 분석으로 정리하는 기업분석 스킬. 매매 추천과 PDF 보고서는 만들지 않음. |
-| [**korean-bond-search**](https://github.com/bucheoncityboy/korean-bond-search) | 종목명·발행사·ISIN으로 한국 채권을 찾아 발행조건·잔액·CALL/PUT·CB/EB/BW를 표준 Bond Instrument 필드로 정리하고 근거 출처를 대조한다. GS Quant의 Instrument/Data 구조화 방식에서 영감을 받은 독립 구현 (Python 오프라인 테스트 34건) |
-| [**market-event-impact**](https://github.com/bucheoncityboy/market-event-impact) | 정례 발표와 비정형 사건에서 무엇이 달라졌고 시장이 왜 반응했는지 공식자료·당시 보도·검증 가격으로 재구성한다. 교차자산 전달경로·증거등급·유사사례·다음 촉매를 설명하고 이벤트 스터디는 보조 증거로 사용한다. GS Quant의 event_study·event_impact_analysis·CalendarAlignment 구조에서 영감을 받은 독립 구현 (Python 오프라인 테스트 71건) |
+| [**multi-asset-morning-briefing**](https://github.com/bucheoncityboy/multi-asset-morning-briefing) | 미국 오버나이트와 한국 전일 시장을 거래일 기준으로 맞춰 주식·금리·환율·원자재·변동성과 한국시장 영향을 요약한다. 시장별 휴장일을 반영하고 공식 출처를 제시한다. |
+| [**macro-ficc-research-agent**](https://github.com/bucheoncityboy/macro-ficc-research-agent) | ECOS·FRED 자료로 한국·미국 금리, 커브, 환율과 거시 이벤트를 분석해 2페이지 브리프와 4시트 Excel 대시보드로 만든다. |
+| [**morning-briefing**](https://github.com/bucheoncityboy/morning-briefing) | 미국 오버나잇과 한국 전일장을 실제 거래일 기준으로 비교하고, 거시·업종 이슈와 한국시장 시사점, 향후 5거래일 일정을 아침 브리핑으로 정리한다. |
+| [**government-bond-analysis**](https://github.com/bucheoncityboy/government-bond-analysis) | 한국·미국 국채 금리를 비교해 만기별 변화, 수익률곡선과 한미 금리차를 분석하고 확인된 입찰·통화정책 일정을 정리한다. |
+| [**company-analysis**](https://github.com/bucheoncityboy/company-analysis-skill) | 공시와 실적발표를 대조해 재무제표 3종의 변화와 사업·경쟁 구도를 대화형으로 분석한다. 주요 일정과 조회 시점 주가도 다루며 매매 추천은 하지 않는다. |
+| [**korean-bond-search**](https://github.com/bucheoncityboy/korean-bond-search) | 종목명·발행사·ISIN으로 한국 채권을 찾아 발행조건, 잔액, CALL/PUT, CB·EB·BW 여부를 출처와 대조해 표준 항목으로 정리한다. GS Quant의 Instrument/Data 구조화 방식에서 영감을 받은 독립 구현이다. |
+| [**market-event-impact**](https://github.com/bucheoncityboy/market-event-impact) | FOMC 같은 정례 발표와 은행 파산 같은 비정형 사건이 시장에 미친 영향을 조사한다. 공식 발표·당시 보도·가격을 대조해 핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명하며 이벤트 스터디는 보조 근거로 쓴다. GS Quant 구조에서 영감을 받은 독립 구현이다. |
 
 ### AI Agent Research Report
 
 | 에이전트 | 설명 |
 |---|---|
-| [**agentic-research-pipeline · 기업 리서치 보고서 에이전트**](https://github.com/bucheoncityboy/agentic-research-pipeline) | 기업분석 스킬과 구분되는 리서치 보고서 생성 에이전트. 7개 소스의 기업 데이터를 수집·교차검증해 근거가 연결된 분석 보고서로 조립하며, Fail-Closed 검증과 19종목 커버리지를 갖춤. |
+| [**agentic-research-pipeline · 기업 리서치 보고서 에이전트**](https://github.com/bucheoncityboy/agentic-research-pipeline) | 7개 자료원에서 기업 데이터를 모아 대조하고, 근거를 추적할 수 있는 기업 리서치 보고서를 생성한다. 검증 기준을 통과하지 못한 정보는 제외하며 19개 종목을 지원한다. |
 
 ### 기타 개인 프로젝트
 
 | 저장소 | 설명 |
 |---|---|
-| [**us-robust-live-ops**](https://github.com/bucheoncityboy/us-robust-live-ops) | 미국 대형주 3-슬리브 퀀트 **라이브 옵스** (Python 신호/비중 SoT → openpyxl 6시트 원장 UI, 수식 오염 차단으로 P&L 무결성) · Leader 60/Mom63 20/LowVol 20 · 월말 종가→익일 시가 · 실주문 fail-closed 게이트 · 주간 NAV/SPY 원장 · Python **~17k LOC** · 백테스트 연환산 49.0% / Sharpe 1.54 |
+| [**us-robust-live-ops**](https://github.com/bucheoncityboy/us-robust-live-ops) | Leader 60%, Mom63 20%, LowVol 20%로 미국 대형주를 운용하는 퀀트 시스템이다. Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익을 기록하며, 검증 실패 시 실주문을 막는다. 월말 종가 신호를 다음 거래일 시가에 반영한다. |
