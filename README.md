@@ -53,13 +53,13 @@
 
 | 스킬 저장소 | 설명 |
 |---|---|
+| [**한국 채권 검색**](https://github.com/bucheoncityboy/korean-bond-search) | 종목명·발행사·ISIN으로 한국 채권을 찾아 발행조건, 잔액, CALL/PUT, CB·EB·BW 여부를 출처와 대조해 표준 항목으로 정리한다. GS Quant의 Instrument/Data 구조화 방식에서 영감을 받은 독립 구현이다. |
+| [**시장 이벤트 분석**](https://github.com/bucheoncityboy/market-event-impact) | FOMC 같은 정례 발표와 은행 파산 같은 비정형 사건이 시장에 미친 영향을 조사한다. 공식 발표·당시 보도·가격을 대조해 핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명하며 이벤트 스터디는 보조 근거로 쓴다. GS Quant 구조에서 영감을 받은 독립 구현이다. |
 | [**멀티에셋브리핑**](https://github.com/bucheoncityboy/multi-asset-morning-briefing) | 미국 오버나이트와 한국 전일 시장을 거래일 기준으로 맞춰 주식·금리·환율·원자재·변동성과 한국시장 영향을 요약한다. 시장별 휴장일을 반영하고 공식 출처를 제시한다. |
 | [**매크로FICC**](https://github.com/bucheoncityboy/macro-ficc-research-agent) | ECOS·FRED 자료로 한국·미국 금리, 커브, 환율과 거시 이벤트를 분석해 2페이지 브리프와 4시트 Excel 대시보드로 만든다. |
 | [**모닝브리핑**](https://github.com/bucheoncityboy/morning-briefing) | 미국 오버나잇과 한국 전일장을 실제 거래일 기준으로 비교하고, 거시·업종 이슈와 한국시장 시사점, 향후 5거래일 일정을 아침 브리핑으로 정리한다. |
 | [**국채분석**](https://github.com/bucheoncityboy/government-bond-analysis) | 한국·미국 국채 금리를 비교해 만기별 변화, 수익률곡선과 한미 금리차를 분석하고 확인된 입찰·통화정책 일정을 정리한다. |
 | [**기업분석**](https://github.com/bucheoncityboy/company-analysis-skill) | 공시와 실적발표를 대조해 재무제표 3종의 변화와 사업·경쟁 구도를 대화형으로 분석한다. 주요 일정과 조회 시점 주가도 다루며 매매 추천은 하지 않는다. |
-| [**한국채권검색**](https://github.com/bucheoncityboy/korean-bond-search) | 종목명·발행사·ISIN으로 한국 채권을 찾아 발행조건, 잔액, CALL/PUT, CB·EB·BW 여부를 출처와 대조해 표준 항목으로 정리한다. GS Quant의 Instrument/Data 구조화 방식에서 영감을 받은 독립 구현이다. |
-| [**시장 이벤트**](https://github.com/bucheoncityboy/market-event-impact) | FOMC 같은 정례 발표와 은행 파산 같은 비정형 사건이 시장에 미친 영향을 조사한다. 공식 발표·당시 보도·가격을 대조해 핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명하며 이벤트 스터디는 보조 근거로 쓴다. GS Quant 구조에서 영감을 받은 독립 구현이다. |
 
 ### 기업 RA 에이전트
 
