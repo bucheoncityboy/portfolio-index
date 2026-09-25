@@ -38,12 +38,17 @@
 
 ### 4-1. 교내 활동 프로젝트 (GAMMA 글로벌마켓학회 · HY-FIN 재무금융학회 · Quantitative Analytics Lab)
 
-| 구분 | 저장소 | 보고서 | 설명 |
-|---|---|---|---|
-| 학회 | [**KRW 금리 이벤트 스터디·3s10s 거래심사**](https://github.com/bucheoncityboy/krw-rates-integrated-research "krw-rates-integrated-research") | [📊 발표자료](https://github.com/bucheoncityboy/krw-rates-integrated-research/blob/main/KRW_Rates_Integrated_Research_Portfolio.pptx) | 팀장으로 금통위 전후 KTB 3Y·10Y 및 3s10s 반응을 분석하고, 컨센서스 surprise·Equal-DV01·잔존위험·거래비용을 반영한 사전 거래심사·실행감사 프레임 설계 |
-| 학회 | [**Fama-French(1993) 재현·한국 시장 FF3 실증**](https://github.com/bucheoncityboy/fama-french-integrated-research "fama-french-integrated-research") | [📄 미국 발표자료](https://github.com/bucheoncityboy/fama-french-integrated-research/blob/main/us-ff1993/Fama-French%20%281993%29%20재현%20발표자료%20%28HY-FIN%20리서치%20세션%205조%29.pdf)<br>[📄 한국 보고서](https://github.com/bucheoncityboy/fama-french-integrated-research/blob/main/korea-market/한국%20시장%20Fama-French%203-Factor%20실증%20연구보고서.pdf) | 미국 FF(1993) 32개 포트폴리오 재현과 한국 주식시장 1,054종목 FF3 실증을 통합<br>(미국 GRS bootstrap p=0.010, 한국 HML t=3.89 및 SMB 반전 현상 확인) |
-| 학회 | [**K-ICS 동적 환헤지 최적화**](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI "Dynamic-Shield-K-ICS-AI") | [📄 연구 보고서](https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI/blob/main/K-ICS%20규제%20환경%20하%20보험사의%20동적%20환위험%20헤지%20의사결정%20시스템.pdf) | K-ICS 규제 환경 하 HMM 국면분류 및 강인 강화학습 기반 동적 환헤지 자산배분 시스템<br>(한화생명 미래금융인재 공모전 출품 · 요구자본비용 최대 10.38% 절감) |
-| 학부연구생 | [**HAQR: 계층 어텐션 분위수 회귀**](https://github.com/bucheoncityboy/deep-quant-risk-haqr "deep-quant-risk-haqr") | [📄 연구 보고서](https://github.com/bucheoncityboy/deep-quant-risk-haqr/blob/main/리스크%20정량화와%20포지션%20사이징을%20위한%20계층적%20어텐션%20퀀타일%20회귀.pdf) | 하방 꼬리위험 정량화를 위한 계층적 어텐션 분위수 회귀 모델 설계<br>(LightGBM 대비 핀볼 오차 7.4% 개선, 적중률 91.48%) |
+<table width="100%">
+<thead>
+<tr><th width="17%">구분</th><th width="31%">저장소</th><th width="24%">보고서</th><th width="28%">설명</th></tr>
+</thead>
+<tbody>
+<tr><td width="17%">학회</td><td width="31%"><a href="https://github.com/bucheoncityboy/krw-rates-integrated-research"><strong>KRW 금리 이벤트 스터디·3s10s 거래심사</strong></a></td><td width="24%"><a href="https://github.com/bucheoncityboy/krw-rates-integrated-research/blob/main/KRW_Rates_Integrated_Research_Portfolio.pptx">📊 발표자료</a></td><td width="28%">팀장으로 금통위 전후 KTB 3Y·10Y 및 3s10s 반응을 분석하고, 컨센서스 surprise·Equal-DV01·잔존위험·거래비용을 반영한 사전 거래심사·실행감사 프레임 설계</td></tr>
+<tr><td width="17%">학회</td><td width="31%"><a href="https://github.com/bucheoncityboy/fama-french-integrated-research"><strong>Fama-French(1993) 재현·한국 시장 FF3 실증</strong></a></td><td width="24%"><a href="https://github.com/bucheoncityboy/fama-french-integrated-research/blob/main/us-ff1993/Fama-French%20%281993%29%20재현%20발표자료%20%28HY-FIN%20리서치%20세션%205조%29.pdf">📄 미국 발표자료</a><br><a href="https://github.com/bucheoncityboy/fama-french-integrated-research/blob/main/korea-market/한국%20시장%20Fama-French%203-Factor%20실증%20연구보고서.pdf">📄 한국 보고서</a></td><td width="28%">미국 FF(1993) 32개 포트폴리오 재현과 한국 주식시장 1,054종목 FF3 실증을 통합<br>(미국 GRS bootstrap p=0.010, 한국 HML t=3.89 및 SMB 반전 현상 확인)</td></tr>
+<tr><td width="17%">학회</td><td width="31%"><a href="https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI"><strong>K-ICS 동적 환헤지 최적화</strong></a></td><td width="24%"><a href="https://github.com/bucheoncityboy/Dynamic-Shield-K-ICS-AI/blob/main/K-ICS%20규제%20환경%20하%20보험사의%20동적%20환위험%20헤지%20의사결정%20시스템.pdf">📄 연구 보고서</a></td><td width="28%">K-ICS 규제 환경 하 HMM 국면분류 및 강인 강화학습 기반 동적 환헤지 자산배분 시스템<br>(한화생명 미래금융인재 공모전 출품 · 요구자본비용 최대 10.38% 절감)</td></tr>
+<tr><td width="17%">학부연구생</td><td width="31%"><a href="https://github.com/bucheoncityboy/deep-quant-risk-haqr"><strong>HAQR: 계층 어텐션 분위수 회귀</strong></a></td><td width="24%"><a href="https://github.com/bucheoncityboy/deep-quant-risk-haqr/blob/main/리스크%20정량화와%20포지션%20사이징을%20위한%20계층적%20어텐션%20퀀타일%20회귀.pdf">📄 연구 보고서</a></td><td width="28%">하방 꼬리위험 정량화를 위한 계층적 어텐션 분위수 회귀 모델 설계<br>(LightGBM 대비 핀볼 오차 7.4% 개선, 적중률 91.48%)</td></tr>
+</tbody>
+</table>
 
 ### 4-2. 개인 프로젝트 (AI 에이전트 · 리서치 자동화)
 
@@ -51,21 +56,31 @@
 
 ### AI Agent Skills
 
-| 스킬 저장소 | 설명 |
-|---|---|
-| [**한국 채권 검색**](https://github.com/bucheoncityboy/korean-bond-search) | 종목명·발행사·ISIN으로 한국 채권을 찾아 발행조건, 잔액, CALL/PUT, CB·EB·BW 여부를 출처와 대조해 표준 항목으로 정리한다. GS Quant의 Instrument/Data 구조화 방식에서 영감을 받은 독립 구현이다. |
-| [**시장 이벤트 분석**](https://github.com/bucheoncityboy/market-event-impact) | FOMC 같은 정례 발표와 은행 파산 같은 비정형 사건이 시장에 미친 영향을 조사한다. 공식 발표·당시 보도·가격을 대조해 핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명하며 이벤트 스터디는 보조 근거로 쓴다. GS Quant 구조에서 영감을 받은 독립 구현이다. |
-| [**멀티에셋브리핑**](https://github.com/bucheoncityboy/multi-asset-morning-briefing) | 미국 오버나이트와 한국 전일 시장을 거래일 기준으로 맞춰 주식·금리·환율·원자재·변동성과 한국시장 영향을 요약한다. 시장별 휴장일을 반영하고 공식 출처를 제시한다. |
-| [**매크로FICC**](https://github.com/bucheoncityboy/macro-ficc-research-agent) | ECOS·FRED 자료로 한국·미국 금리, 커브, 환율과 거시 이벤트를 분석해 2페이지 브리프와 4시트 Excel 대시보드로 만든다. |
-| [**모닝브리핑**](https://github.com/bucheoncityboy/morning-briefing) | 미국 오버나잇과 한국 전일장을 실제 거래일 기준으로 비교하고, 거시·업종 이슈와 한국시장 시사점, 향후 5거래일 일정을 아침 브리핑으로 정리한다. |
-| [**국채분석**](https://github.com/bucheoncityboy/government-bond-analysis) | 한국·미국 국채 금리를 비교해 만기별 변화, 수익률곡선과 한미 금리차를 분석하고 확인된 입찰·통화정책 일정을 정리한다. |
-| [**기업분석**](https://github.com/bucheoncityboy/company-analysis-skill) | 공시와 실적발표를 대조해 재무제표 3종의 변화와 사업·경쟁 구도를 대화형으로 분석한다. 주요 일정과 조회 시점 주가도 다루며 매매 추천은 하지 않는다. |
+<table width="100%">
+<thead>
+<tr><th width="32%">스킬 저장소</th><th width="68%">설명</th></tr>
+</thead>
+<tbody>
+<tr><td width="32%"><a href="https://github.com/bucheoncityboy/korean-bond-search"><strong>한국 채권 검색</strong></a></td><td width="68%">종목명·발행사·ISIN으로 한국 채권을 찾아 발행조건, 잔액, CALL/PUT, CB·EB·BW 여부를 출처와 대조해 표준 항목으로 정리한다. GS Quant의 Instrument/Data 구조화 방식에서 영감을 받은 독립 구현이다.</td></tr>
+<tr><td width="32%"><a href="https://github.com/bucheoncityboy/market-event-impact"><strong>시장 이벤트 분석</strong></a></td><td width="68%">FOMC 같은 정례 발표와 은행 파산 같은 비정형 사건이 시장에 미친 영향을 조사한다. 공식 발표·당시 보도·가격을 대조해 핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명하며 이벤트 스터디는 보조 근거로 쓴다. GS Quant 구조에서 영감을 받은 독립 구현이다.</td></tr>
+<tr><td width="32%"><a href="https://github.com/bucheoncityboy/multi-asset-morning-briefing"><strong>멀티에셋브리핑</strong></a></td><td width="68%">미국 오버나이트와 한국 전일 시장을 거래일 기준으로 맞춰 주식·금리·환율·원자재·변동성과 한국시장 영향을 요약한다. 시장별 휴장일을 반영하고 공식 출처를 제시한다.</td></tr>
+<tr><td width="32%"><a href="https://github.com/bucheoncityboy/macro-ficc-research-agent"><strong>매크로FICC</strong></a></td><td width="68%">ECOS·FRED 자료로 한국·미국 금리, 커브, 환율과 거시 이벤트를 분석해 2페이지 브리프와 4시트 Excel 대시보드로 만든다.</td></tr>
+<tr><td width="32%"><a href="https://github.com/bucheoncityboy/morning-briefing"><strong>모닝브리핑</strong></a></td><td width="68%">미국 오버나이트와 한국 전일장을 실제 거래일 기준으로 비교하고, 거시·업종 이슈와 한국시장 시사점, 향후 5거래일 일정을 아침 브리핑으로 정리한다.</td></tr>
+<tr><td width="32%"><a href="https://github.com/bucheoncityboy/government-bond-analysis"><strong>국채분석</strong></a></td><td width="68%">한국·미국 국채 금리를 비교해 만기별 변화, 수익률곡선과 한미 금리차를 분석하고 확인된 입찰·통화정책 일정을 정리한다.</td></tr>
+<tr><td width="32%"><a href="https://github.com/bucheoncityboy/company-analysis-skill"><strong>기업분석</strong></a></td><td width="68%">공시와 실적발표를 대조해 재무제표 3종의 변화와 사업·경쟁 구도를 대화형으로 분석한다. 주요 일정과 조회 시점 주가도 다루며 매매 추천은 하지 않는다.</td></tr>
+</tbody>
+</table>
 
 ### 기업 RA 에이전트
 
-| 에이전트 | 설명 |
-|---|---|
-| [**기업RA**](https://github.com/bucheoncityboy/agentic-research-pipeline) | 7개 자료원에서 기업 데이터를 모아 대조하고, 근거를 추적할 수 있는 기업 리서치 보고서를 생성한다. 검증 기준을 통과하지 못한 정보는 제외하며 19개 종목을 지원한다. |
+<table width="100%">
+<thead>
+<tr><th width="24%">에이전트</th><th width="32%">저장소</th><th width="44%">설명</th></tr>
+</thead>
+<tbody>
+<tr><td width="24%">기업 RA 에이전트</td><td width="32%"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 리서치 파이프라인</strong></a></td><td width="44%">7개 자료원에서 기업 데이터를 모아 대조하고, 근거를 추적할 수 있는 기업 리서치 보고서를 생성한다. 검증 기준을 통과하지 못한 정보는 제외하며 19개 종목을 지원한다.</td></tr>
+</tbody>
+</table>
 
 ### 기타 개인 프로젝트
 
