@@ -73,10 +73,10 @@
 
 <table width="100%">
 <thead>
-<tr><th width="19%">에이전트</th><th width="24%">저장소</th><th width="57%">설명</th></tr>
+<tr><th width="27%">에이전트 저장소</th><th width="73%">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="19%">기업 RA 에이전트</td><td width="24%"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 리서치 파이프라인</strong></a></td><td width="57%">7개 자료원에서 기업 데이터를 모아 대조하고, 근거를 추적할 수 있는 기업 리서치 보고서를 생성한다. 검증 기준을 통과하지 못한 정보는 제외하며 19개 종목을 지원한다.</td></tr>
+<tr><td width="27%"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 RA 에이전트</strong></a></td><td width="73%">7개 자료원에서 기업 데이터를 모아 대조하고, 근거를 추적할 수 있는 기업 리서치 보고서를 생성한다. 검증 기준을 통과하지 못한 정보는 제외하며 19개 종목을 지원한다.</td></tr>
 </tbody>
 </table>
 
