@@ -19,12 +19,12 @@
 
 <table width="100%">
 <thead>
-<tr><th width="220">활동</th><th width="600">주요 내용</th><th width="220">기간</th></tr>
+<tr><th width="270">활동</th><th width="550">주요 내용</th><th width="220">기간</th></tr>
 </thead>
 <tbody>
-<tr><td width="220" align="center"><strong>GAMMA 글로벌마켓학회</strong></td><td width="600"><ul><li>일간·주간 글로벌 시장 브리핑 작성</li><li>IB 자료 리서치</li><li>매크로 분석 및 한국은행 통화정책 이벤트 연구</li></ul></td><td width="220" align="center">2026.03 – 현재</td></tr>
-<tr><td width="220" align="center"><strong>HY-FIN 재무금융학회</strong></td><td width="600"><ul><li>Fama-French(1993) 재현 및 한국 시장 실증 분석</li><li>환위험 관리 및 환헤지 연구 논문</li><li>WorldQuant Brain 산학협력</li></ul></td><td width="220" align="center">2025.09 – 2026.07</td></tr>
-<tr><td width="220" align="center"><strong>Quantitative Analytics Lab<br>(학부연구생)</strong></td><td width="600"><ul><li>금융 머신러닝(Meta-Labeling) 연구</li><li>금융 시계열 꼬리위험 정량화 및 리스크 관리</li></ul></td><td width="220" align="center">2025.09 – 2025.12</td></tr>
+<tr><td width="270" align="center"><strong>GAMMA 글로벌마켓학회</strong></td><td width="550"><ul><li>일간·주간 글로벌 시장 브리핑 작성</li><li>IB 자료 리서치</li><li>매크로 분석 및 한국은행 통화정책 이벤트 연구</li></ul></td><td width="220" align="center">2026.03 – 현재</td></tr>
+<tr><td width="270" align="center"><strong>HY-FIN 재무금융학회</strong></td><td width="550"><ul><li>Fama-French(1993) 재현 및 한국 시장 실증 분석</li><li>환위험 관리 및 환헤지 연구 논문</li><li>WorldQuant Brain 산학협력</li></ul></td><td width="220" align="center">2025.09 – 2026.07</td></tr>
+<tr><td width="270" align="center"><strong>Quantitative Analytics Lab<br>(학부연구생)</strong></td><td width="550"><ul><li>금융 머신러닝(Meta-Labeling) 연구</li><li>금융 시계열 꼬리위험 정량화 및 리스크 관리</li></ul></td><td width="220" align="center">2025.09 – 2025.12</td></tr>
 </tbody>
 </table>
 
