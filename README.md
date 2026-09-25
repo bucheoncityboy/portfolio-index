@@ -8,7 +8,7 @@
 
 <table width="100%">
 <thead>
-<tr><th width="22%">학교</th><th width="46%">전공</th><th width="22%">기간</th><th width="10%">비고</th></tr>
+<tr><th width="27%">학교</th><th width="34%">전공</th><th width="27%">기간</th><th width="12%">비고</th></tr>
 </thead>
 <tbody>
 <tr><td>한양대학교(서울)</td><td>경영학부 (주전공) · 정보시스템학과 (복수전공)</td><td>2019.03 – 2026.08</td><td>졸업</td></tr>
