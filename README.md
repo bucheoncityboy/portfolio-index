@@ -18,6 +18,7 @@
 ## 2. 교내 활동
 
 <table width="100%">
+<colgroup><col width="270"><col width="550"><col width="220"></colgroup>
 <thead>
 <tr><th width="270">활동</th><th width="550">주요 내용</th><th width="220">기간</th></tr>
 </thead>
@@ -31,6 +32,7 @@
 ## 3. 수료/자격증
 
 <table width="100%">
+<colgroup><col width="270"><col width="550"><col width="220"></colgroup>
 <thead>
 <tr><th width="270" align="center">구분</th><th width="550" align="center">내용</th><th width="220" align="center">취득일</th></tr>
 </thead>
