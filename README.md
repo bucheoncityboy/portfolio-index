@@ -84,10 +84,10 @@
 
 <table width="100%">
 <thead>
-<tr><th width="25%">에이전트 저장소</th><th width="75%">설명</th></tr>
+<tr><th width="320">에이전트 저장소</th><th width="880">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 RA 에이전트</strong></a></td><td width="75%">• 7개 자료원에서 기업 데이터를 수집·대조해 근거 추적형 보고서 생성 • 검증 기준 미달 정보는 제외 · 19개 종목 지원</td></tr>
+<tr><td width="320"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 RA 에이전트</strong></a></td><td width="880">• 7개 자료원에서 기업 데이터를 수집·대조해 근거 추적형 보고서 생성 • 검증 기준 미달 정보는 제외 · 19개 종목 지원</td></tr>
 </tbody>
 </table>
 
@@ -95,9 +95,9 @@
 
 <table width="100%">
 <thead>
-<tr><th width="25%">저장소</th><th width="75%">설명</th></tr>
+<tr><th width="320">저장소</th><th width="880">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="25%"><a href="https://github.com/bucheoncityboy/us-robust-live-ops"><strong>미국퀀트운용</strong></a></td><td width="75%">• 미국 대형주를 Leader 60%·Mom63 20%·LowVol 20%로 운용 • Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익 기록 • 월말 종가 신호를 다음 거래일 시가에 반영 · 검증 실패 시 주문 차단</td></tr>
+<tr><td width="320"><a href="https://github.com/bucheoncityboy/us-robust-live-ops"><strong>미국퀀트운용</strong></a></td><td width="880">• 미국 대형주를 Leader 60%·Mom63 20%·LowVol 20%로 운용 • Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익 기록 • 월말 종가 신호를 다음 거래일 시가에 반영 · 검증 실패 시 주문 차단</td></tr>
 </tbody>
 </table>
