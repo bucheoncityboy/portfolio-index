@@ -6,39 +6,39 @@
 
 ## 1. 학력
 
-<table width="1000">
+<table width="100%">
 <thead>
-<tr><th width="27%">학교</th><th width="34%">전공</th><th width="27%">기간</th><th width="12%">비고</th></tr>
+<tr><th width="140">학교</th><th width="420">전공</th><th width="300">기간</th><th width="140">비고</th></tr>
 </thead>
 <tbody>
-<tr><td width="27%">한양대학교(서울)</td><td width="34%">경영학부 (주전공) · 정보시스템학과 (복수전공)</td><td width="27%">2019.03 – 2026.08</td><td width="12%">졸업</td></tr>
+<tr><td width="140">한양대학교(서울)</td><td width="420">경영학부 (주전공) · 정보시스템학과 (복수전공)</td><td width="300">2019.03 – 2026.08</td><td width="140">졸업</td></tr>
 </tbody>
 </table>
 
 ## 2. 교내 활동
 
-<table width="1000">
+<table width="100%">
 <thead>
-<tr><th width="25%">활동</th><th width="53%">주요 내용</th><th width="22%">기간</th></tr>
+<tr><th width="220">활동</th><th width="600">주요 내용</th><th width="220">기간</th></tr>
 </thead>
 <tbody>
-<tr><td width="25%"><strong>GAMMA 글로벌마켓학회</strong></td><td width="53%"><ul><li>일간·주간 글로벌 시장 브리핑 작성</li><li>IB 자료 리서치</li><li>매크로 분석 및 한국은행 통화정책 이벤트 연구</li></ul></td><td width="22%">2026.03 – 현재</td></tr>
-<tr><td width="25%"><strong>HY-FIN 재무금융학회</strong></td><td width="53%"><ul><li>Fama-French(1993) 재현 및 한국 시장 실증 분석</li><li>환위험 관리 및 환헤지 연구 논문</li><li>WorldQuant Brain 산학협력</li></ul></td><td width="22%">2025.09 – 2026.07</td></tr>
-<tr><td width="25%"><strong>Quantitative Analytics Lab<br>(학부연구생)</strong></td><td width="53%"><ul><li>금융 머신러닝(Meta-Labeling) 연구</li><li>금융 시계열 꼬리위험 정량화 및 리스크 관리</li></ul></td><td width="22%">2025.09 – 2025.12</td></tr>
+<tr><td width="220"><strong>GAMMA 글로벌마켓학회</strong></td><td width="600"><ul><li>일간·주간 글로벌 시장 브리핑 작성</li><li>IB 자료 리서치</li><li>매크로 분석 및 한국은행 통화정책 이벤트 연구</li></ul></td><td width="220">2026.03 – 현재</td></tr>
+<tr><td width="220"><strong>HY-FIN 재무금융학회</strong></td><td width="600"><ul><li>Fama-French(1993) 재현 및 한국 시장 실증 분석</li><li>환위험 관리 및 환헤지 연구 논문</li><li>WorldQuant Brain 산학협력</li></ul></td><td width="220">2025.09 – 2026.07</td></tr>
+<tr><td width="220"><strong>Quantitative Analytics Lab<br>(학부연구생)</strong></td><td width="600"><ul><li>금융 머신러닝(Meta-Labeling) 연구</li><li>금융 시계열 꼬리위험 정량화 및 리스크 관리</li></ul></td><td width="220">2025.09 – 2025.12</td></tr>
 </tbody>
 </table>
 
 ## 3. 수료/자격증
 
-<table width="1000">
+<table width="100%">
 <thead>
-<tr><th width="15%">구분</th><th width="67%">내용</th><th width="18%">취득일</th></tr>
+<tr><th width="100">구분</th><th width="740">내용</th><th width="180">취득일</th></tr>
 </thead>
 <tbody>
-<tr><td width="15%">수료</td><td width="67%">Quantitative Research Consultant (WorldQuant)</td><td width="18%">2026.06.04</td></tr>
-<tr><td width="15%">자격증</td><td width="67%">투자자산운용사 (금융투자협회)</td><td width="18%">2025.10.30</td></tr>
-<tr><td width="15%">자격증</td><td width="67%">ADsP 데이터분석 준전문가 (한국데이터산업진흥원)</td><td width="18%">2024.05.31</td></tr>
-<tr><td width="15%">자격증</td><td width="67%">SQL 개발자 (한국데이터산업진흥원)</td><td width="18%">2024.04.05</td></tr>
+<tr><td width="100">수료</td><td width="740">Quantitative Research Consultant (WorldQuant)</td><td width="180">2026.06.04</td></tr>
+<tr><td width="100">자격증</td><td width="740">투자자산운용사 (금융투자협회)</td><td width="180">2025.10.30</td></tr>
+<tr><td width="100">자격증</td><td width="740">ADsP 데이터분석 준전문가 (한국데이터산업진흥원)</td><td width="180">2024.05.31</td></tr>
+<tr><td width="100">자격증</td><td width="740">SQL 개발자 (한국데이터산업진흥원)</td><td width="180">2024.04.05</td></tr>
 </tbody>
 </table>
 
