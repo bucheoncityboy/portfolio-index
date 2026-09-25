@@ -46,16 +46,28 @@
 
 ### 4-2. 개인 프로젝트 (AI 에이전트 · 리서치 자동화)
 
-> 금융 리서치 스킬은 공식 자료와 검증 가능한 시장 데이터를 바탕으로 대화형 분석을 제공하도록 설계했습니다. 각 스킬을 독립된 개인 저장소로 관리하고, 분석 범위와 한계를 함께 명시했습니다.
+> 공식 자료와 검증 가능한 시장 데이터를 근거로 분석하는 개인 스킬 저장소입니다. 각 스킬은 용도와 제외 범위를 분리해 제공합니다.
+
+### AI Agent Skills
+
+| 스킬 저장소 | 설명 |
+|---|---|
+| [**multi-asset-morning-briefing**](https://github.com/bucheoncityboy/multi-asset-morning-briefing) | 미국 오버나이트와 한국 직전 거래일을 각 시장의 실제 세션·휴장일 기준으로 정렬하고, 주식·금리·FX·원자재·변동성 및 한국시장 전달 경로를 공식 출처와 함께 7개 섹션으로 정리하는 멀티에셋 모닝 브리핑 스킬 (원천별 결측·오류 차단 · Python 오프라인 테스트 30건) |
+| [**macro-ficc-research-agent**](https://github.com/bucheoncityboy/macro-ficc-research-agent) | 한국·미국 금리·커브·FX·거시 이벤트를 ECOS·FRED 공식 데이터로 수집·검증해 2페이지 브리프와 4시트 Excel 대시보드를 만드는 FICC 리서치 스킬 (유효 관측일 정렬 · 공식 성명 없는 정책 해석 차단 · evidence packet 오프라인 재생 · TypeScript 테스트 25건) |
+| [**morning-briefing**](https://github.com/bucheoncityboy/morning-briefing) | 미국 오버나잇과 한국 직전 거래 세션을 실제 거래일 기준으로 맞춰 시장 수치·거시 이벤트·섹터 촉매·한국시장 시사점·향후 5거래일 일정을 7개 섹션으로 구성하는 모닝 브리핑 스킬 (출처 근거 · 세션 분리 · Python 오프라인 테스트 10건) |
+| [**government-bond-analysis**](https://github.com/bucheoncityboy/government-bond-analysis) | 공식 데이터로 한국·미국 국채 수익률을 비교해 만기별 변화·커브·한미 금리차를 계산하고 확인된 입찰·통화정책 일정을 함께 분석하는 스킬 (141개 결정론적 파이프라인 검사 · TypeScript 타입 검사) |
+| [**company-analysis**](https://github.com/bucheoncityboy/company-analysis-skill) | 공개 공시와 실적발표를 대조해 재무제표 3종의 변화, 사업·경쟁 구도, 주요 일정과 조회 시점 주가를 여섯 섹션의 한국어 대화형 분석으로 정리하는 기업분석 스킬. 매매 추천과 PDF 보고서는 만들지 않음. |
+| [**korean-bond-search**](https://github.com/bucheoncityboy/korean-bond-search) | 종목명·발행사·ISIN으로 한국 채권을 찾아 발행조건·잔액·CALL/PUT·CB/EB/BW를 표준 Bond Instrument 필드로 정리하고 근거 출처를 대조한다. GS Quant의 Instrument/Data 구조화 방식에서 영감을 받은 독립 구현 (Python 오프라인 테스트 34건) |
+| [**market-event-impact**](https://github.com/bucheoncityboy/market-event-impact) | 정례 발표와 비정형 사건에서 무엇이 달라졌고 시장이 왜 반응했는지 공식자료·당시 보도·검증 가격으로 재구성한다. 교차자산 전달경로·증거등급·유사사례·다음 촉매를 설명하고 이벤트 스터디는 보조 증거로 사용한다. GS Quant의 event_study·event_impact_analysis·CalendarAlignment 구조에서 영감을 받은 독립 구현 (Python 오프라인 테스트 71건) |
+
+### AI Agent Research Report
+
+| 에이전트 | 설명 |
+|---|---|
+| [**agentic-research-pipeline · 기업 리서치 보고서 에이전트**](https://github.com/bucheoncityboy/agentic-research-pipeline) | 기업분석 스킬과 구분되는 리서치 보고서 생성 에이전트. 7개 소스의 기업 데이터를 수집·교차검증해 근거가 연결된 분석 보고서로 조립하며, Fail-Closed 검증과 19종목 커버리지를 갖춤. |
+
+### 기타 개인 프로젝트
 
 | 저장소 | 설명 |
 |---|---|
-| [**multi-asset-morning-briefing**](https://github.com/bucheoncityboy/multi-asset-morning-briefing) | 미국 오버나이트와 한국 직전 거래일을 각 시장의 실제 세션·휴장일 기준으로 정렬하고, 주식·금리·FX·원자재·변동성 및 한국시장 전달 경로를 공식 출처와 함께 7개 섹션으로 정리하는 멀티에셋 모닝 브리핑 프로젝트 (원천별 결측·오류 차단 · Python 오프라인 테스트 30건) |
-| [**macro-ficc-research-agent**](https://github.com/bucheoncityboy/macro-ficc-research-agent) | 한국·미국 금리·커브·FX·거시 이벤트를 ECOS·FRED 공식 데이터로 수집·검증해 2페이지 브리프와 4시트 Excel 대시보드를 만드는 AI 에이전트 스킬 (유효 관측일 정렬 · 공식 성명 없는 정책 해석 차단 · evidence packet 오프라인 재생 · TypeScript 테스트 25건) |
-| [**morning-briefing**](https://github.com/bucheoncityboy/morning-briefing) | 미국 오버나잇과 한국 직전 거래 세션을 실제 거래일 기준으로 맞춰 시장 수치·거시 이벤트·섹터 촉매·한국시장 시사점·향후 5거래일 일정을 7개 섹션으로 구성하는 개인 리서치 스킬 (출처 근거 · 세션 분리 · Python 오프라인 테스트 10건) |
-| [**government-bond-analysis**](https://github.com/bucheoncityboy/government-bond-analysis) | 공식 데이터로 한국·미국 국채 수익률을 비교해 만기별 변화·커브·한미 금리차를 계산하고 확인된 입찰·통화정책 일정을 함께 분석하는 스킬 (141개 결정론적 파이프라인 검사 · TypeScript 타입 검사) |
-| [**company-analysis-skill**](https://github.com/bucheoncityboy/company-analysis-skill) · `company-analysis` | 공시와 실적발표를 대조해 재무제표 3종의 변화, 사업·경쟁 구도, 주요 일정과 조회 시점 주가를 여섯 섹션의 한국어 대화형 분석으로 정리한다. 매매 추천과 PDF 보고서는 만들지 않는다. |
-| [**korean-bond-search**](https://github.com/bucheoncityboy/korean-bond-search) | 종목명·발행사·ISIN으로 한국 채권을 찾아 발행조건·잔액·CALL/PUT·CB/EB/BW를 표준 Bond Instrument 필드로 정리하고 근거 출처를 대조한다. GS Quant의 Instrument/Data 구조화 방식에서 영감을 받은 독립 구현 (Python 오프라인 테스트 34건) |
-| [**market-event-impact**](https://github.com/bucheoncityboy/market-event-impact) | 정례 발표와 비정형 사건에서 무엇이 달라졌고 시장이 왜 반응했는지 공식자료·당시 보도·검증 가격으로 재구성한다. 교차자산 전달경로·증거등급·유사사례·다음 촉매를 설명하고 이벤트 스터디는 보조 증거로 사용한다. GS Quant의 event_study·event_impact_analysis·CalendarAlignment 구조에서 영감을 받은 독립 구현 (Python 오프라인 테스트 71건) |
-| [**agentic-research-pipeline**](https://github.com/bucheoncityboy/agentic-research-pipeline) | AI Agent 기반 기업분석 리포트 자동화 (7개 소스 연동 · Fail-Closed 검증 · 19종목 커버리지) |
 | [**us-robust-live-ops**](https://github.com/bucheoncityboy/us-robust-live-ops) | 미국 대형주 3-슬리브 퀀트 **라이브 옵스** (Python 신호/비중 SoT → openpyxl 6시트 원장 UI, 수식 오염 차단으로 P&L 무결성) · Leader 60/Mom63 20/LowVol 20 · 월말 종가→익일 시가 · 실주문 fail-closed 게이트 · 주간 NAV/SPY 원장 · Python **~17k LOC** · 백테스트 연환산 49.0% / Sharpe 1.54 |
