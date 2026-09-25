@@ -6,7 +6,7 @@
 
 ## 1. 학력
 
-<table width="100%">
+<table width="1000">
 <thead>
 <tr><th width="27%">학교</th><th width="34%">전공</th><th width="27%">기간</th><th width="12%">비고</th></tr>
 </thead>
@@ -17,7 +17,7 @@
 
 ## 2. 교내 활동
 
-<table width="100%">
+<table width="1000">
 <thead>
 <tr><th width="25%">활동</th><th width="53%">주요 내용</th><th width="22%">기간</th></tr>
 </thead>
@@ -30,7 +30,7 @@
 
 ## 3. 수료/자격증
 
-<table width="100%">
+<table width="1000">
 <thead>
 <tr><th width="15%">구분</th><th width="67%">내용</th><th width="18%">취득일</th></tr>
 </thead>
