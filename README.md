@@ -8,10 +8,10 @@
 
 <table width="100%">
 <thead>
-<tr><th width="140">학교</th><th width="420">전공</th><th width="300">기간</th><th width="140">비고</th></tr>
+<tr><th width="220">학교</th><th width="420">전공</th><th width="220">기간</th><th width="140">비고</th></tr>
 </thead>
 <tbody>
-<tr><td width="140" align="center">한양대학교(서울)</td><td width="420" align="center">경영학부 (주전공) · 정보시스템학과 (복수전공)</td><td width="300" align="center">2019.03 – 2026.08</td><td width="140" align="center">졸업</td></tr>
+<tr><td width="220" align="center">한양대학교(서울)</td><td width="420" align="center">경영학부 (주전공) · 정보시스템학과 (복수전공)</td><td width="220" align="center">2019.03 – 2026.08</td><td width="140" align="center">졸업</td></tr>
 </tbody>
 </table>
 
