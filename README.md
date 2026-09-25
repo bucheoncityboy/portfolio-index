@@ -35,10 +35,10 @@
 <tr><th width="270" align="center">구분</th><th width="550" align="center">내용</th><th width="220" align="center">취득일</th></tr>
 </thead>
 <tbody>
-<tr><td width="270" align="center">수료</td><td width="550" align="center">• Quantitative Research Consultant (WorldQuant)</td><td width="220" align="center">2026.06.04</td></tr>
-<tr><td width="270" align="center">자격증</td><td width="550" align="center">• 투자자산운용사 (금융투자협회)</td><td width="220" align="center">2025.10.30</td></tr>
-<tr><td width="270" align="center">자격증</td><td width="550" align="center">• ADsP 데이터분석 준전문가 (한국데이터산업진흥원)</td><td width="220" align="center">2024.05.31</td></tr>
-<tr><td width="270" align="center">자격증</td><td width="550" align="center">• SQL 개발자 (한국데이터산업진흥원)</td><td width="220" align="center">2024.04.05</td></tr>
+<tr><td width="270" align="center">수료</td><td width="550" align="left"><ul><li>Quantitative Research Consultant (WorldQuant)</li></ul></td><td width="220" align="center">2026.06.04</td></tr>
+<tr><td width="270" align="center">자격증</td><td width="550" align="left"><ul><li>투자자산운용사 (금융투자협회)</li></ul></td><td width="220" align="center">2025.10.30</td></tr>
+<tr><td width="270" align="center">자격증</td><td width="550" align="left"><ul><li>ADsP 데이터분석 준전문가 (한국데이터산업진흥원)</li></ul></td><td width="220" align="center">2024.05.31</td></tr>
+<tr><td width="270" align="center">자격증</td><td width="550" align="left"><ul><li>SQL 개발자 (한국데이터산업진흥원)</li></ul></td><td width="220" align="center">2024.04.05</td></tr>
 </tbody>
 </table>
 
