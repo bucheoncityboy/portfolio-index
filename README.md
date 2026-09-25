@@ -32,13 +32,13 @@
 
 <table width="100%">
 <thead>
-<tr><th width="270">구분</th><th width="550">내용</th><th width="220" align="center">취득일</th></tr>
+<tr><th width="295">구분</th><th width="535">내용</th><th width="210" align="center">취득일</th></tr>
 </thead>
 <tbody>
-<tr><td width="270">수료</td><td width="550">Quantitative Research Consultant (WorldQuant)</td><td width="220" align="center">2026.06.04</td></tr>
-<tr><td width="270">자격증</td><td width="550">투자자산운용사 (금융투자협회)</td><td width="220" align="center">2025.10.30</td></tr>
-<tr><td width="270">자격증</td><td width="550">ADsP 데이터분석 준전문가 (한국데이터산업진흥원)</td><td width="220" align="center">2024.05.31</td></tr>
-<tr><td width="270">자격증</td><td width="550">SQL 개발자 (한국데이터산업진흥원)</td><td width="220" align="center">2024.04.05</td></tr>
+<tr><td width="295">수료</td><td width="535">Quantitative Research Consultant (WorldQuant)</td><td width="210" align="center">2026.06.04</td></tr>
+<tr><td width="295">자격증</td><td width="535">투자자산운용사 (금융투자협회)</td><td width="210" align="center">2025.10.30</td></tr>
+<tr><td width="295">자격증</td><td width="535">ADsP 데이터분석 준전문가 (한국데이터산업진흥원)</td><td width="210" align="center">2024.05.31</td></tr>
+<tr><td width="295">자격증</td><td width="535">SQL 개발자 (한국데이터산업진흥원)</td><td width="210" align="center">2024.04.05</td></tr>
 </tbody>
 </table>
 
