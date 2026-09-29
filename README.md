@@ -100,6 +100,6 @@
 <tr><th width="320">저장소</th><th width="880">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="320"><a href="https://github.com/bucheoncityboy/us-robust-live-ops"><strong>미국퀀트운용</strong></a></td><td width="880">• 미국 대형주를 Leader 60%·Mom63 20%·LowVol 20%로 운용 • Python이 신호·비중을 계산하고 Excel 원장이 포지션·손익 기록 • 월말 종가 신호를 다음 거래일 시가에 반영 · 검증 실패 시 주문 차단</td></tr>
+<tr><td width="320"><a href="https://github.com/bucheoncityboy/us-robust-live-ops"><strong>미국퀀트운용</strong></a></td><td width="880">• 고정 60/20/20 전략의 월별 종목 선정과 목표 비중 산출 자동화<br>• 별도 확장형 Walk-Forward 검증: 과거 자료로 후보 4개 중 선택 후 다음 6개월 평가, 총 5회<br>• 2024.01~2026.06의 5개 평가 구간 모두 SPY 대비 초과수익, 익영업일 시가 및 왕복 10bp 반영<br>• 기존 후보와 현재 구성종목을 사용한 사후 검증으로 생존편향 잔존<br><a href="https://github.com/bucheoncityboy/us-robust-live-ops/tree/main/results/walk_forward_validation">검증 결과와 구간별 표</a></td></tr>
 </tbody>
 </table>
