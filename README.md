@@ -76,11 +76,11 @@
 <tr><th width="20%">스킬</th><th width="16%">개인 저장소</th><th width="22%">K-Skill 기여</th><th width="42%">주요 기능</th></tr>
 </thead>
 <tbody>
-<tr><td width="20%"><strong>한국 채권 검색</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/korean-bond-search">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/685">K-Skill PR #685</a></td><td width="42%">채권 발행조건·옵션 조회 및 표준화</td></tr>
-<tr><td width="20%"><strong>시장 이벤트 분석</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/market-event-impact">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/684">K-Skill PR #684</a></td><td width="42%">시장 충격과 교차자산 전달경로 분석</td></tr>
-<tr><td width="20%"><strong>멀티에셋 브리핑</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/multi-asset-morning-briefing">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/675">K-Skill PR #675</a></td><td width="42%">미국·한국 시장 세션 정렬 및 모닝 브리핑</td></tr>
-<tr><td width="20%"><strong>한·미 국채 분석</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/government-bond-analysis">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/683">K-Skill PR #683</a></td><td width="42%">KTB·UST 금리·커브·스프레드 분석</td></tr>
-<tr><td width="20%"><strong>기업분석</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/company-analysis-skill">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/682">K-Skill PR #682</a></td><td width="42%">공시 기반 재무제표·실적·사업 분석</td></tr>
+<tr><td width="20%"><strong>한국 채권 검색</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/korean-bond-search">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/blob/main/docs/features/korean-bond-search.md">공식 기능 문서</a></td><td width="42%">채권 발행조건·옵션 조회 및 표준화</td></tr>
+<tr><td width="20%"><strong>시장 이벤트 분석</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/market-event-impact">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/blob/main/docs/features/market-event-impact.md">공식 기능 문서</a></td><td width="42%">시장 충격과 교차자산 전달경로 분석</td></tr>
+<tr><td width="20%"><strong>멀티에셋 브리핑</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/multi-asset-morning-briefing">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/blob/main/docs/features/multi-asset-morning-briefing.md">공식 기능 문서</a></td><td width="42%">미국·한국 시장 세션 정렬 및 모닝 브리핑</td></tr>
+<tr><td width="20%"><strong>한·미 국채 분석</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/government-bond-analysis">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/blob/main/docs/features/government-bond-analysis.md">공식 기능 문서</a></td><td width="42%">KTB·UST 금리·커브·스프레드 분석</td></tr>
+<tr><td width="20%"><strong>기업분석</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/company-analysis-skill">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/blob/main/docs/features/company-analysis.md">공식 기능 문서</a></td><td width="42%">공시 기반 재무제표·실적·사업 분석</td></tr>
 </tbody>
 </table>
 
