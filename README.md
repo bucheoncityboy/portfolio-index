@@ -69,7 +69,7 @@
 
 ### AI Agent Skills · Open Source Contributions
 
-금융시장 데이터 수집·검증 및 리서치 자동화를 위한 AI 스킬 5종을 개발하고, 오픈소스 프로젝트 [NomaDamas/K-Skill](https://github.com/NomaDamas/k-skill)에 기여했습니다.
+금융시장 데이터 수집·검증 및 리서치를 위한 AI 스킬을 개발하고, 오픈소스 프로젝트 [NomaDamas/K-Skill](https://github.com/NomaDamas/k-skill)에 기여했습니다.
 
 <table width="100%">
 <thead>
