@@ -65,7 +65,7 @@
 
 ### 4-2. 개인 프로젝트 (리서치 자동화 · 퀀트 운용)
 
-> 시장·기업 리서치 자동화와 퀀트 전략 검증·운용 프로젝트를 정리했습니다. 각 저장소에서 주요 기능과 구현 내용을 확인할 수 있습니다.
+> 시장·기업 리서치 자동화와 퀀트 연구·전략 검증·운용 프로젝트를 정리했습니다. 각 저장소에서 주요 기능과 구현 내용을 확인할 수 있습니다.
 
 ### AI Agent Skills · Open Source Contributions
 
@@ -92,6 +92,17 @@
 </thead>
 <tbody>
 <tr><td width="320"><a href="https://github.com/bucheoncityboy/agentic-research-pipeline"><strong>기업 RA 에이전트</strong></a></td><td width="880">• 7개 자료원에서 기업 데이터를 수집·대조해 근거 추적형 보고서 생성 • 검증 기준 미달 정보는 제외 · 19개 종목 지원</td></tr>
+</tbody>
+</table>
+
+### 퀀트 팩터 연구
+
+<table width="100%">
+<thead>
+<tr><th width="320">저장소</th><th width="880">설명</th></tr>
+</thead>
+<tbody>
+<tr><td width="320"><a href="https://github.com/bucheoncityboy/korea-governance-ff3"><strong>공시 기반 거버넌스 × 한국 FF3</strong></a></td><td width="880">• 한국 FF3 기초 팩터 재현: HML 월 0.83%·SMB -0.67%<br>• 공시 공개일·출처·결측 검증 및 FF3/HAC 분석 파이프라인 구현<br>• 과거 거버넌스 데이터 미확보로 G 알파는 미추정<br><a href="https://github.com/bucheoncityboy/korea-governance-ff3/blob/main/korea-market/governance-extension/output/RESEARCH_NOTE.md">연구노트와 검증 결과</a></td></tr>
 </tbody>
 </table>
 
