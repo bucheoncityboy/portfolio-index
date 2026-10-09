@@ -67,18 +67,20 @@
 
 > 시장·기업 리서치를 돕는 개인 스킬과 에이전트를 모았습니다. 각 저장소에서 주요 기능과 사용 방법을 확인할 수 있습니다.
 
-### AI Agent Skills
+### AI Agent Skills · Open Source Contributions
+
+금융시장 데이터 수집·검증 및 리서치 자동화를 위한 AI 스킬 5종을 개발하고, 오픈소스 프로젝트 [NomaDamas/K-Skill](https://github.com/NomaDamas/k-skill)에 기여했습니다.
 
 <table width="100%">
 <thead>
-<tr><th width="320">스킬 저장소</th><th width="880">설명</th></tr>
+<tr><th width="20%">스킬</th><th width="16%">개인 저장소</th><th width="22%">K-Skill 기여</th><th width="42%">주요 기능</th></tr>
 </thead>
 <tbody>
-<tr><td width="320"><a href="https://github.com/bucheoncityboy/korean-bond-search"><strong>한국 채권 검색 스킬</strong></a></td><td width="880">• 종목명·발행사·ISIN으로 발행조건·잔액·CALL/PUT·CB·EB·BW 조회<br>• 출처를 대조해 표준 채권 항목으로 정리 · GS Quant 구조에서 영감</td></tr>
-<tr><td width="320"><a href="https://github.com/bucheoncityboy/market-event-impact"><strong>시장 이벤트 분석 스킬</strong></a></td><td width="880">• 정례 발표와 비정형 사건의 공식자료·당시 보도·가격을 대조<br>• 핵심 변화, 자산 간 전달경로, 유사 사례와 다음 촉매를 설명<br>• 이벤트 스터디는 보조 근거로 사용 · GS Quant 구조에서 영감</td></tr>
-<tr><td width="320"><a href="https://github.com/bucheoncityboy/multi-asset-morning-briefing"><strong>멀티에셋브리핑 스킬</strong></a></td><td width="880">• 미국 오버나이트와 한국 전일장을 거래일 기준으로 정렬<br>• 주식·금리·환율·원자재·변동성과 한국시장 영향 요약<br>• 시장별 휴장일 반영 · 공식 출처 제시</td></tr>
-<tr><td width="320"><a href="https://github.com/bucheoncityboy/government-bond-analysis"><strong>국채분석 스킬</strong></a></td><td width="880">• 한국·미국 국채의 만기별 금리 변화·수익률곡선·한미 금리차 분석<br>• 확인된 입찰·통화정책 일정 정리</td></tr>
-<tr><td width="320"><a href="https://github.com/bucheoncityboy/company-analysis-skill"><strong>기업분석 스킬</strong></a></td><td width="880">• 공시·실적발표를 대조해 3대 재무제표와 사업·경쟁 구도 분석<br>• 주요 일정·조회 시점 주가 포함 · 매매 추천 제외</td></tr>
+<tr><td width="20%"><strong>한국 채권 검색</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/korean-bond-search">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/685">K-Skill PR #685</a></td><td width="42%">채권 발행조건·옵션 조회 및 표준화</td></tr>
+<tr><td width="20%"><strong>시장 이벤트 분석</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/market-event-impact">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/684">K-Skill PR #684</a></td><td width="42%">시장 충격과 교차자산 전달경로 분석</td></tr>
+<tr><td width="20%"><strong>멀티에셋 브리핑</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/multi-asset-morning-briefing">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/675">K-Skill PR #675</a></td><td width="42%">미국·한국 시장 세션 정렬 및 모닝 브리핑</td></tr>
+<tr><td width="20%"><strong>한·미 국채 분석</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/government-bond-analysis">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/683">K-Skill PR #683</a></td><td width="42%">KTB·UST 금리·커브·스프레드 분석</td></tr>
+<tr><td width="20%"><strong>기업분석</strong></td><td width="16%"><a href="https://github.com/bucheoncityboy/company-analysis-skill">개인 저장소</a></td><td width="22%"><a href="https://github.com/NomaDamas/k-skill/pull/682">K-Skill PR #682</a></td><td width="42%">공시 기반 재무제표·실적·사업 분석</td></tr>
 </tbody>
 </table>
 
