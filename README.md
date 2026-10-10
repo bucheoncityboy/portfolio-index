@@ -102,7 +102,7 @@
 <tr><th width="320">저장소</th><th width="880">설명</th></tr>
 </thead>
 <tbody>
-<tr><td width="320"><a href="https://github.com/bucheoncityboy/mirae-governance-vfs-research"><strong>Value Focus Style — 거버넌스 기반 가치전략 실증</strong></a></td><td width="880">• 미래에셋증권 「멀티플 탈출」 VFS 방법론을 OpenDART 사외이사 비율 G 대리지표로 독립 재구현한 개인 Quant/ESG 연구<br>• 실제 공통 2021.07~12(6개월) 누적: VFS -11.14%·Value -13.72%·KOSPI -10.50%<br>• PRICE_RETURN_ONLY · FF3 α 미추정(6&lt;24개월) · 생존·상폐·독립 OOS 미검증<br><a href="https://github.com/bucheoncityboy/mirae-governance-vfs-research/blob/main/reports/RESEARCH_REPORT.pdf">연구 보고서</a> · <a href="https://bucheoncityboy.github.io/mirae-governance-vfs-research/">시각화 대시보드</a></td></tr>
+<tr><td width="320"><a href="https://github.com/bucheoncityboy/mirae-governance-vfs-research"><strong>Value Focus Style — 거버넌스 기반 가치전략 실증</strong></a></td><td width="880">• 미래에셋증권 「멀티플 탈출」 VFS 방법론을 OpenDART 사외이사 비율 G 대리지표로 독립 재구현한 개인 Quant/ESG 연구<br>• 실제 공통 2021.07~12(6개월) 누적: VFS -11.14%·Value -13.72%·KOSPI -10.50%<br>• 2026.10.11 공식 공시 재수집·원천 재실행: 기존 8개월·공통 6개월 성과 일치<br>• PRICE_RETURN_ONLY · FF3 α 미추정(6&lt;24개월) · 생존·상폐·독립 OOS 미검증<br><a href="https://github.com/bucheoncityboy/mirae-governance-vfs-research/blob/main/reports/RESEARCH_REPORT.pdf">연구 보고서</a> · <a href="https://github.com/bucheoncityboy/mirae-governance-vfs-research/blob/main/reports/PUBLIC_SOURCE_REBUILD_APPENDIX.pdf">원천 검증 부록</a> · <a href="https://bucheoncityboy.github.io/mirae-governance-vfs-research/">시각화 대시보드</a></td></tr>
 </tbody>
 </table>
 
